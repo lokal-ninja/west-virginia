@@ -1,0 +1,4 @@
+---
+title: "Hair Central"
+url: /parkersburg/hair-central/
+---
