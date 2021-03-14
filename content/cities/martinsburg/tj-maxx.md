@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /martinsburg/tj-maxx/
-shop: clothes
+shop: department store
 ---
