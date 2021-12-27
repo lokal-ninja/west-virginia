@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ripley/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oceana
 url: /oceana/
-latitude: 37.6920026
-longitude: -81.62375200000001
+latitude: 37.692
+longitude: -81.653
 ---

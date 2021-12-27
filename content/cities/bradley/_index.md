@@ -1,6 +1,6 @@
 ---
 title: Bradley
 url: /bradley/
-latitude: 38.1584337
-longitude: -81.7173436
+latitude: 37.848
+longitude: -81.199
 ---

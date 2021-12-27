@@ -1,5 +1,5 @@
 ---
 title: "Living Art Studios"
 url: /huntington/living-art-studios/
-shop: tattoo
+shop: Tattoo
 ---

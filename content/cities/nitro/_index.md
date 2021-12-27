@@ -1,6 +1,6 @@
 ---
 title: Nitro
 url: /nitro/
-latitude: 38.4148146
-longitude: -81.8440197
+latitude: 38.432
+longitude: -81.837
 ---

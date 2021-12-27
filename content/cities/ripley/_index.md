@@ -1,6 +1,6 @@
 ---
 title: Ripley
 url: /ripley/
-latitude: 38.818828700000005
-longitude: -81.71055720000001
+latitude: 38.82
+longitude: -81.723
 ---

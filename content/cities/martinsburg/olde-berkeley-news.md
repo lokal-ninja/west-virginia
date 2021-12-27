@@ -1,5 +1,5 @@
 ---
 title: "Olde Berkeley News"
 url: /martinsburg/olde-berkeley-news/
-shop: convenience
+shop: Lebensmittel
 ---

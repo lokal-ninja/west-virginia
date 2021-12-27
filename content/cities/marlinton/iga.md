@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /marlinton/iga/
-shop: supermarket
+shop: Supermarkt
 ---

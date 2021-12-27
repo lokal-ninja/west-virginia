@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /star-city/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /beckley/shell/
-shop: convenience
+shop: Lebensmittel
 ---

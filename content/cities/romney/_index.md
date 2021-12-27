@@ -1,6 +1,6 @@
 ---
 title: Romney
 url: /romney/
-latitude: 39.3419698
-longitude: -78.7564522
+latitude: 39.335
+longitude: -78.745
 ---

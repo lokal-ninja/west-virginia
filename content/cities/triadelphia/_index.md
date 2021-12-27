@@ -1,6 +1,6 @@
 ---
 title: Triadelphia
 url: /triadelphia/
-latitude: 40.0525734
-longitude: -80.6284097
+latitude: 40.059
+longitude: -80.619
 ---

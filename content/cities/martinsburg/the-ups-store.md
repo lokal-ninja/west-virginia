@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /martinsburg/the-ups-store/
-shop: shop
+shop: Allgemein
 ---

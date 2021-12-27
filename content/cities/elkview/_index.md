@@ -1,6 +1,6 @@
 ---
 title: Elkview
 url: /elkview/
-latitude: 38.4428752
-longitude: -81.4803995
+latitude: 38.459
+longitude: -81.5
 ---

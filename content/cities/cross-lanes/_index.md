@@ -1,6 +1,6 @@
 ---
 title: Cross Lanes
 url: /cross-lanes/
-latitude: 38.4203709
-longitude: -81.7906847
+latitude: 38.42
+longitude: -81.791
 ---

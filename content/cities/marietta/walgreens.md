@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /marietta/walgreens/
-shop: chemist
+shop: Drogerie
 ---

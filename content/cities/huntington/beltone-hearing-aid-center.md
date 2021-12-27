@@ -1,5 +1,5 @@
 ---
 title: "Beltone Hearing Aid Center"
 url: /huntington/beltone-hearing-aid-center/
-shop: hearing aids
+shop: Hörgeräte
 ---

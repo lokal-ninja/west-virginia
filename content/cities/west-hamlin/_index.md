@@ -1,6 +1,6 @@
 ---
 title: West Hamlin
 url: /west-hamlin/
-latitude: 38.2856444
-longitude: -82.1956978
+latitude: 38.272
+longitude: -82.199
 ---

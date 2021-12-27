@@ -1,5 +1,5 @@
 ---
 title: "Rural King"
 url: /cross-lanes/rural-king/
-shop: general
+shop: Dorfladen
 ---

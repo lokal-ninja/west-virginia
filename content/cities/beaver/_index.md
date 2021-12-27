@@ -1,6 +1,6 @@
 ---
 title: Beaver
 url: /beaver/
-latitude: 37.747615700000004
-longitude: -81.14232030000001
+latitude: 37.751
+longitude: -81.137
 ---

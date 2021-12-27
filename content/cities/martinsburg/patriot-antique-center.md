@@ -1,5 +1,5 @@
 ---
 title: "Patriot Antique Center"
 url: /martinsburg/patriot-antique-center/
-shop: antiques
+shop: Antiquitäten
 ---

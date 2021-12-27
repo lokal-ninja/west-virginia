@@ -1,6 +1,6 @@
 ---
 title: Stollings
 url: /stollings/
-latitude: 37.8376042
-longitude: -81.964568
+latitude: 37.843
+longitude: -81.969
 ---

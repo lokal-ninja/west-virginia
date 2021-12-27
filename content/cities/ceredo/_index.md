@@ -1,6 +1,6 @@
 ---
 title: Ceredo
 url: /ceredo/
-latitude: 
-longitude: 
+latitude: 38.397
+longitude: -82.564
 ---

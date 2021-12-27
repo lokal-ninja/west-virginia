@@ -1,6 +1,6 @@
 ---
 title: Mount Nebo
 url: /mount-nebo/
-latitude: 39.602304700000005
-longitude: -79.70783030000001
+latitude: 38.199
+longitude: -80.861
 ---

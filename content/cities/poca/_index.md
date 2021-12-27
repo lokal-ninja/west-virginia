@@ -1,6 +1,6 @@
 ---
 title: Poca
 url: /poca/
-latitude: 38.4723137
-longitude: -81.81429770000001
+latitude: 38.473
+longitude: -81.815
 ---

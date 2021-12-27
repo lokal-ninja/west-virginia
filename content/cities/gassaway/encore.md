@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /gassaway/encore/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Davis
 url: /davis/
-latitude: 39.1287273
-longitude: -79.46476320000001
+latitude: 39.128
+longitude: -79.469
 ---

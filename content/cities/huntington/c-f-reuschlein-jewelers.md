@@ -1,5 +1,5 @@
 ---
 title: "C. F. Reuschlein Jewelers"
 url: /huntington/c-f-reuschlein-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

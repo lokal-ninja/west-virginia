@@ -1,6 +1,6 @@
 ---
 title: Mt Hope
 url: /mt-hope/
-latitude: 
-longitude: 
+latitude: 37.848
+longitude: -81.199
 ---

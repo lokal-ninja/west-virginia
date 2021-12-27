@@ -1,6 +1,6 @@
 ---
 title: Clendenin
 url: /clendenin/
-latitude: 38.4887089
-longitude: -81.3481745
+latitude: 38.489
+longitude: -81.348
 ---

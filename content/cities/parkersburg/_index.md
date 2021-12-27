@@ -1,6 +1,6 @@
 ---
 title: Parkersburg
 url: /parkersburg/
-latitude: 
-longitude: 
+latitude: 39.218
+longitude: -81.545
 ---

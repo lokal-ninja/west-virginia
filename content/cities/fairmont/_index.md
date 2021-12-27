@@ -1,6 +1,6 @@
 ---
 title: Fairmont
 url: /fairmont/
-latitude: 39.4850848
-longitude: -80.14257810000001
+latitude: 39.518
+longitude: -80.024
 ---

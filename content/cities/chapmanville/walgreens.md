@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /chapmanville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

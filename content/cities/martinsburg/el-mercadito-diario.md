@@ -1,5 +1,5 @@
 ---
 title: "El Mercadito Diario"
 url: /martinsburg/el-mercadito-diario/
-shop: supermarket
+shop: Supermarkt
 ---

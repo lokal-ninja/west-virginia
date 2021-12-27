@@ -1,6 +1,6 @@
 ---
 title: Kenova
 url: /kenova/
-latitude: 
-longitude: 
+latitude: 38.401
+longitude: -82.577
 ---

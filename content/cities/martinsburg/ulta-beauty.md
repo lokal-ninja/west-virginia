@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /martinsburg/ulta-beauty/
-shop: beauty
+shop: Kosmetik
 ---

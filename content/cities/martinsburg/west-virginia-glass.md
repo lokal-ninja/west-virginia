@@ -1,5 +1,5 @@
 ---
 title: "West Virginia Glass"
 url: /martinsburg/west-virginia-glass/
-shop: gift
+shop: Andenken
 ---

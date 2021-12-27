@@ -1,6 +1,6 @@
 ---
 title: Ravenswood
 url: /ravenswood/
-latitude: 38.948326800000004
-longitude: -81.7609912
+latitude: 38.953
+longitude: -81.762
 ---

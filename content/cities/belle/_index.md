@@ -1,6 +1,6 @@
 ---
 title: Belle
 url: /belle/
-latitude: 38.2320006
-longitude: -81.5378003
+latitude: 38.213
+longitude: -81.462
 ---

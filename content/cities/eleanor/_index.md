@@ -1,6 +1,6 @@
 ---
 title: Eleanor
 url: /eleanor/
-latitude: 38.5375886
-longitude: -81.93235770000001
+latitude: 38.532
+longitude: -81.921
 ---

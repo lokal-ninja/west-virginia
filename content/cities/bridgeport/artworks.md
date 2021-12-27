@@ -1,5 +1,5 @@
 ---
 title: "Artworks"
 url: /bridgeport/artworks/
-shop: art
+shop: Kunst
 ---

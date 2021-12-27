@@ -1,6 +1,6 @@
 ---
 title: Foster
 url: /foster/
-latitude: 38.097323
-longitude: -81.7798441
+latitude: 38.1
+longitude: -81.83
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiestaware"
 url: /sutton/fiestaware/
-shop: houseware
+shop: Haushaltsartikel
 ---

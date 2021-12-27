@@ -1,5 +1,5 @@
 ---
 title: "Dillons Furniture"
 url: /romney/dillons-furniture/
-shop: furniture
+shop: Möbel
 ---

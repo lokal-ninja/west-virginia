@@ -1,6 +1,6 @@
 ---
 title: Culloden
 url: /culloden/
-latitude: 38.4200892
-longitude: -82.0554159
+latitude: 38.418
+longitude: -82.041
 ---

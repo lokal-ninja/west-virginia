@@ -1,6 +1,6 @@
 ---
 title: Weirton
 url: /weirton/
-latitude: 40.4189566
-longitude: -80.5895167
+latitude: 40.402
+longitude: -80.548
 ---

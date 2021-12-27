@@ -1,6 +1,6 @@
 ---
 title: Kearneysville
 url: /kearneysville/
-latitude: 39.388155600000005
-longitude: -77.8855516
+latitude: 39.413
+longitude: -77.916
 ---

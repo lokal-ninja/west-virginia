@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /sophia/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

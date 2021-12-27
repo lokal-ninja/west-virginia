@@ -1,5 +1,5 @@
 ---
 title: "Hometown Hobbies"
 url: /huntington/hometown-hobbies/
-shop: games
+shop: Spiele
 ---

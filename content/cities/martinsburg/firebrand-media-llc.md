@@ -1,5 +1,5 @@
 ---
 title: "Firebrand Media, LLC"
 url: /martinsburg/firebrand-media-llc/
-shop: shop
+shop: Allgemein
 ---
