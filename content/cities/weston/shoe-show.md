@@ -1,5 +1,5 @@
 ---
 title: "Shoe Show"
 url: /weston/shoe-show/
-shop: Schuhe
+shop: shoes
 ---

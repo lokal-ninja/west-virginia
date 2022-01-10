@@ -1,5 +1,5 @@
 ---
 title: "Pretty Nails"
 url: /beaver/pretty-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Muffler Bros"
 url: /huntington/the-muffler-bros/
-shop: Autowerkstatt
+shop: car repair
 ---

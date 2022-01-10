@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /beaver/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Stone House"
 url: /morgantown/old-stone-house/
-shop: Andenken
+shop: gift
 ---

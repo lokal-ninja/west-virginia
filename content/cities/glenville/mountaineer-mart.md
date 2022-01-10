@@ -1,5 +1,5 @@
 ---
 title: "Mountaineer Mart"
 url: /glenville/mountaineer-mart/
-shop: Lebensmittel
+shop: convenience
 ---

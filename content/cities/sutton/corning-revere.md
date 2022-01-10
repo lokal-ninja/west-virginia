@@ -1,5 +1,5 @@
 ---
 title: "Corning Revere"
 url: /sutton/corning-revere/
-shop: Haushaltsartikel
+shop: houseware
 ---

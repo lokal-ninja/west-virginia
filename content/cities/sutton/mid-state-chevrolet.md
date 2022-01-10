@@ -1,5 +1,5 @@
 ---
 title: "Mid State Chevrolet"
 url: /sutton/mid-state-chevrolet/
-shop: Autohaus
+shop: car
 ---

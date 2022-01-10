@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ravenswood/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

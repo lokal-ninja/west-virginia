@@ -1,5 +1,5 @@
 ---
 title: "Heather's Hair Haven"
 url: /martinsburg/heathers-hair-haven/
-shop: Friseur
+shop: hairdresser
 ---

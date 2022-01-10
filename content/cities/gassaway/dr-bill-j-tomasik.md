@@ -1,5 +1,5 @@
 ---
 title: "Dr. Bill J Tomasik"
 url: /gassaway/dr-bill-j-tomasik/
-shop: Optiker
+shop: optician
 ---

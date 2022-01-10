@@ -1,5 +1,5 @@
 ---
 title: "Frank's Tire"
 url: /gassaway/franks-tire/
-shop: Reifen
+shop: tyres
 ---

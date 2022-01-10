@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /elkins/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

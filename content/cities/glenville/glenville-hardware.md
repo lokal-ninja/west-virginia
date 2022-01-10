@@ -1,5 +1,5 @@
 ---
 title: "Glenville Hardware"
 url: /glenville/glenville-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

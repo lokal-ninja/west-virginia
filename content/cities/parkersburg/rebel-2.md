@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /parkersburg/rebel-2/
-shop: Lebensmittel
+shop: convenience
 ---

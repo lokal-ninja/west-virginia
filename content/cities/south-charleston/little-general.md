@@ -1,5 +1,5 @@
 ---
 title: "Little General"
 url: /south-charleston/little-general/
-shop: Lebensmittel
+shop: convenience
 ---

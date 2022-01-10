@@ -1,5 +1,5 @@
 ---
 title: "Lupitas Grocery Store"
 url: /martinsburg/lupitas-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

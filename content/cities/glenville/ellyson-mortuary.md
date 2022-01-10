@@ -1,5 +1,5 @@
 ---
 title: "Ellyson Mortuary"
 url: /glenville/ellyson-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

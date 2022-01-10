@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /weirton/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

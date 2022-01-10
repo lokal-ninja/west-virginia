@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /martinsburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

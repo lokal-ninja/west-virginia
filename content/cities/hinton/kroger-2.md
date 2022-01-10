@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /hinton/kroger-2/
-shop: Supermarkt
+shop: supermarket
 ---

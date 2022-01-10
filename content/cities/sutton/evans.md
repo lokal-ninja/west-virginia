@@ -1,5 +1,5 @@
 ---
 title: "Evans"
 url: /sutton/evans/
-shop: Autowerkstatt
+shop: car repair
 ---

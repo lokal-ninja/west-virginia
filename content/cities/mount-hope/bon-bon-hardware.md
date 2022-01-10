@@ -1,5 +1,5 @@
 ---
 title: "Bon Bon Hardware"
 url: /mount-hope/bon-bon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

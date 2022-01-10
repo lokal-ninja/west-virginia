@@ -1,5 +1,5 @@
 ---
 title: "Gabe's"
 url: /martinsburg/gabes/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kimble Funeral Home"
 url: /marlinton/kimble-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

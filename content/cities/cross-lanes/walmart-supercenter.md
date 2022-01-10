@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /cross-lanes/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

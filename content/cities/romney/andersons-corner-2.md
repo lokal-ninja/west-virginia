@@ -1,5 +1,5 @@
 ---
 title: "Anderson's Corner"
 url: /romney/andersons-corner-2/
-shop: Schmuck
+shop: jewelry
 ---

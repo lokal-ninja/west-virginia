@@ -1,5 +1,5 @@
 ---
 title: "Mariann's Bake Shop"
 url: /clarksburg/marianns-bake-shop/
-shop: Bäckerei
+shop: bakery
 ---

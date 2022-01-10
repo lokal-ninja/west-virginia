@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /st-albans/sprint/
-shop: Handy
+shop: mobile phone
 ---

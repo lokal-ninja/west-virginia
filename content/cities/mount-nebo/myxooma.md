@@ -1,5 +1,5 @@
 ---
 title: "MyXooma"
 url: /mount-nebo/myxooma/
-shop: Gesundheit
+shop: health
 ---

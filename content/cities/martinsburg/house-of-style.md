@@ -1,5 +1,5 @@
 ---
 title: "House Of Style"
 url: /martinsburg/house-of-style/
-shop: Kosmetik
+shop: beauty
 ---

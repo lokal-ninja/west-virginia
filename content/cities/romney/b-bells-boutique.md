@@ -1,5 +1,5 @@
 ---
 title: "B Bell's Boutique"
 url: /romney/b-bells-boutique/
-shop: Raumausstattung
+shop: interior decoration
 ---

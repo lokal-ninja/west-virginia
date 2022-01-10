@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Laundromat"
 url: /morgantown/the-laundry-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

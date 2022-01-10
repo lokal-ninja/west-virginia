@@ -1,5 +1,5 @@
 ---
 title: "West Hamlin Foodfair"
 url: /west-hamlin/west-hamlin-foodfair/
-shop: Lebensmittel
+shop: convenience
 ---

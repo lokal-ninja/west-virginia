@@ -1,5 +1,5 @@
 ---
 title: "My Vaccuums"
 url: /martinsburg/my-vaccuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

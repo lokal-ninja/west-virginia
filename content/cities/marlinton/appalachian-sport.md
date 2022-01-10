@@ -1,5 +1,5 @@
 ---
 title: "Appalachian Sport"
 url: /marlinton/appalachian-sport/
-shop: Outdoor
+shop: outdoor
 ---

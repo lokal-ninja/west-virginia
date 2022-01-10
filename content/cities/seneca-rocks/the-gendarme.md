@@ -1,5 +1,5 @@
 ---
 title: "The Gendarme"
 url: /seneca-rocks/the-gendarme/
-shop: Sport
+shop: sports
 ---

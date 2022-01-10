@@ -1,5 +1,5 @@
 ---
 title: "Gore's Autobody Inc"
 url: /hinton/gores-autobody-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

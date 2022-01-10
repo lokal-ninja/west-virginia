@@ -1,5 +1,5 @@
 ---
 title: "Wild Zero Studios"
 url: /morgantown/wild-zero-studios/
-shop: Tattoo
+shop: tattoo
 ---

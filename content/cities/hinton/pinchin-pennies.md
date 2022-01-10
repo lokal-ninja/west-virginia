@@ -1,5 +1,5 @@
 ---
 title: "Pinchin Pennies"
 url: /hinton/pinchin-pennies/
-shop: Dorfladen
+shop: general
 ---

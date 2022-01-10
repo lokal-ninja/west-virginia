@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cross-lanes/walgreens/
-shop: Drogerie
+shop: chemist
 ---

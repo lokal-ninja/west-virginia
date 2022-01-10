@@ -1,5 +1,5 @@
 ---
 title: "Buttermore Jewelers"
 url: /parkersburg/buttermore-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Go Mart"
 url: /gassaway/go-mart/
-shop: Lebensmittel
+shop: convenience
 ---

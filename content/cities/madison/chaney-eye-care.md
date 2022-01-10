@@ -1,5 +1,5 @@
 ---
 title: "Chaney Eye Care"
 url: /madison/chaney-eye-care/
-shop: Optiker
+shop: optician
 ---
