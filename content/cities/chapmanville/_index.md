@@ -1,6 +1,6 @@
 ---
 title: Chapmanville
 url: /chapmanville/
-latitude: 37.977
-longitude: -82.016
+latitude: 37.976
+longitude: -82.021
 ---
