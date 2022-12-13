@@ -1,5 +1,5 @@
 ---
 title: "GoMart"
-url: /gassaway/gomart-2/
+url: /cedar-grove/gomart/
 shop: convenience
 ---
