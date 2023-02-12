@@ -1,6 +1,6 @@
 ---
 title: Marlinton
 url: /marlinton/
-latitude: 38.222
-longitude: -80.093
+latitude: 38.232
+longitude: -80.091
 ---
