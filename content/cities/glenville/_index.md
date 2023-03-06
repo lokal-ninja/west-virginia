@@ -1,6 +1,6 @@
 ---
 title: Glenville
 url: /glenville/
-latitude: 38.936
-longitude: -80.815
+latitude: 38.934
+longitude: -80.839
 ---
