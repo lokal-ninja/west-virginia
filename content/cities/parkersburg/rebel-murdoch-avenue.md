@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
-url: /parkersburg/rebel/
+url: /parkersburg/rebel-murdoch-avenue/
 shop: convenience
 ---

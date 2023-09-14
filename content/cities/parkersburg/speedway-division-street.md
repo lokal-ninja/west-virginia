@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /parkersburg/speedway/
+url: /parkersburg/speedway-division-street/
 shop: convenience
 ---

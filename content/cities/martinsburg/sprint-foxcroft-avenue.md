@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /martinsburg/sprint/
+url: /martinsburg/sprint-foxcroft-avenue/
 shop: mobile phone
 ---

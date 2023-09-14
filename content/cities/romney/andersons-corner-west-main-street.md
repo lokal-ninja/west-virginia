@@ -1,5 +1,5 @@
 ---
 title: "Anderson's Corner"
-url: /romney/andersons-corner/
+url: /romney/andersons-corner-west-main-street/
 shop: jewelry
 ---

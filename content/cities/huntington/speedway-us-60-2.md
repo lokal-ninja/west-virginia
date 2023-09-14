@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /huntington/speedway/
+url: /huntington/speedway-us-60-2/
 shop: convenience
 ---

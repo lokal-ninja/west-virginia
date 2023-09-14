@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /charleston/speedway/
+url: /charleston/speedway-goff-mountain-road/
 shop: convenience
 ---
