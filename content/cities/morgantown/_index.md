@@ -1,6 +1,6 @@
 ---
 title: Morgantown
 url: /morgantown/
-latitude: 39.629
-longitude: -79.957
+latitude: 39.652
+longitude: -79.969
 ---
