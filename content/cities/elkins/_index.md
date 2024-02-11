@@ -1,6 +1,6 @@
 ---
 title: Elkins
 url: /elkins/
-latitude: 38.931
-longitude: -79.862
+latitude: 38.919
+longitude: -79.844
 ---
