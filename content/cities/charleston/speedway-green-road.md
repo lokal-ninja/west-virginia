@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /charleston/speedway-big-tyler-road/
+url: /charleston/speedway-green-road/
 shop: convenience
 ---
