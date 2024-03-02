@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /clarksburg/dollar-general-melrose-street/
+url: /bluefield/dollar-general/
 shop: variety store
 ---
