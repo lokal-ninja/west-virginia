@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /beckley/kroger-harper-road/
+url: /morgantown/kroger-2/
 shop: supermarket
 ---
