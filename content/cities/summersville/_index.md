@@ -1,6 +1,6 @@
 ---
 title: Summersville
 url: /summersville/
-latitude: 38.305
-longitude: -80.837
+latitude: 38.309
+longitude: -80.838
 ---

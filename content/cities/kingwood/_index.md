@@ -1,6 +1,6 @@
 ---
 title: Kingwood
 url: /kingwood/
-latitude: 39.486
-longitude: -79.733
+latitude: 39.469
+longitude: -79.668
 ---

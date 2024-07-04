@@ -1,6 +1,6 @@
 ---
 title: Clarksburg
 url: /clarksburg/
-latitude: 39.256
-longitude: -80.32
+latitude: 39.274
+longitude: -80.282
 ---
