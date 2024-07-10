@@ -1,6 +1,6 @@
 ---
 title: Barboursville
 url: /barboursville/
-latitude: 38.422
-longitude: -82.267
+latitude: 38.42
+longitude: -82.285
 ---
