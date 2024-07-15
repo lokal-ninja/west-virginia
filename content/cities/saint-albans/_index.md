@@ -1,6 +1,6 @@
 ---
 title: Saint Albans
 url: /saint-albans/
-latitude: 38.377
-longitude: -81.805
+latitude: 38.39
+longitude: -81.839
 ---

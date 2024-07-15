@@ -1,6 +1,6 @@
 ---
 title: Berkeley Springs
 url: /berkeley-springs/
-latitude: 39.578
-longitude: -78.256
+latitude: 39.63
+longitude: -78.226
 ---
