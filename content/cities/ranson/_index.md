@@ -1,6 +1,6 @@
 ---
 title: Ranson
 url: /ranson/
-latitude: 39.318
-longitude: -77.846
+latitude: 39.323
+longitude: -77.85
 ---
