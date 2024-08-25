@@ -1,6 +1,6 @@
 ---
 title: Moorefield
 url: /moorefield/
-latitude: 39.075
-longitude: -78.965
+latitude: 39.076
+longitude: -78.964
 ---
