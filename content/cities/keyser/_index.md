@@ -1,6 +1,6 @@
 ---
 title: Keyser
 url: /keyser/
-latitude: 39.401
-longitude: -79.011
+latitude: 39.433
+longitude: -78.987
 ---
