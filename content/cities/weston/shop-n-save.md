@@ -1,5 +1,5 @@
 ---
 title: "Shop 'n' Save"
 url: /weston/shop-n-save/
-shop: supermarket
+shop: Supermarkt
 ---

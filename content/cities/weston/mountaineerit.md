@@ -1,5 +1,5 @@
 ---
 title: "MountaineerIT"
 url: /weston/mountaineerit/
-shop: computer
+shop: Computer
 ---

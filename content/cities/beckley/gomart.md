@@ -1,5 +1,5 @@
 ---
 title: "GoMart"
 url: /beckley/gomart/
-shop: convenience
+shop: Lebensmittel
 ---

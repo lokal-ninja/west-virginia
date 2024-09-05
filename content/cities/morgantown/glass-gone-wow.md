@@ -1,5 +1,5 @@
 ---
 title: "Glass Gone Wow"
 url: /morgantown/glass-gone-wow/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

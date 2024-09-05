@@ -1,5 +1,5 @@
 ---
 title: "GoMart"
 url: /elkview/gomart/
-shop: convenience
+shop: Lebensmittel
 ---

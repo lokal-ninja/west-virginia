@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /berkeley-springs/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

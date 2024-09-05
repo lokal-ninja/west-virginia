@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /bridgeport/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

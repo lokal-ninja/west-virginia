@@ -1,5 +1,5 @@
 ---
 title: "Saiboi International Market"
 url: /martinsburg/saiboi-international-market/
-shop: supermarket
+shop: Supermarkt
 ---

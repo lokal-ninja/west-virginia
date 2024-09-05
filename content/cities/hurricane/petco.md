@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /hurricane/petco/
-shop: pet
+shop: Tiere
 ---

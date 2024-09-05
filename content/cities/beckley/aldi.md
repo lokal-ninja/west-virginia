@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /beckley/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

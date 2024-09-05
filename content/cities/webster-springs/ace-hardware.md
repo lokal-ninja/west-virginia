@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /webster-springs/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

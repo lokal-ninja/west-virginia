@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /weston/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

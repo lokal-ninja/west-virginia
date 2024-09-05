@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /cross-lanes/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

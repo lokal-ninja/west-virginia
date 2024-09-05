@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clarksburg/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

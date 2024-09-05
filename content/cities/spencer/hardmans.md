@@ -1,5 +1,5 @@
 ---
 title: "Hardmans"
 url: /spencer/hardmans/
-shop: hardware
+shop: Eisenwaren
 ---

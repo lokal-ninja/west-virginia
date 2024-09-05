@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /foster/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

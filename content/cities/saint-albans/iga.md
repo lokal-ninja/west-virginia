@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /saint-albans/iga/
-shop: supermarket
+shop: Supermarkt
 ---

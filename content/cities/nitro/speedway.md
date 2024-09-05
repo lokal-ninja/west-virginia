@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /nitro/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

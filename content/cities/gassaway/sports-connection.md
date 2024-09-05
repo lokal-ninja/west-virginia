@@ -1,5 +1,5 @@
 ---
 title: "Sports Connection"
 url: /gassaway/sports-connection/
-shop: sports
+shop: Sport
 ---

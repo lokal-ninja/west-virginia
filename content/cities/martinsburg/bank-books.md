@@ -1,5 +1,5 @@
 ---
 title: "Bank Books"
 url: /martinsburg/bank-books/
-shop: books
+shop: Bücher
 ---

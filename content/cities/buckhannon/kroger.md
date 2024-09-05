@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /buckhannon/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

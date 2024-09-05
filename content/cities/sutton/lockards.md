@@ -1,5 +1,5 @@
 ---
 title: "Lockards"
 url: /sutton/lockards/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Retro-Tique"
 url: /morgantown/retro-tique/
-shop: clothes
+shop: Kleidung
 ---

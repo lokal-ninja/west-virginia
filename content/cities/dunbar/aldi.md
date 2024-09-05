@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dunbar/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

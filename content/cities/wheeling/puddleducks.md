@@ -1,5 +1,5 @@
 ---
 title: "Puddleducks"
 url: /wheeling/puddleducks/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hurricane/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

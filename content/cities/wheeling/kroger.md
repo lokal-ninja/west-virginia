@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /wheeling/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /south-charleston/target/
-shop: supermarket
+shop: Supermarkt
 ---

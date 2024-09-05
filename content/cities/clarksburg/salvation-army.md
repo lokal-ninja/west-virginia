@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /clarksburg/salvation-army/
-shop: charity
+shop: Gebrauchtwaren
 ---

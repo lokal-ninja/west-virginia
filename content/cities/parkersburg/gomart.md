@@ -1,5 +1,5 @@
 ---
 title: "GoMart"
 url: /parkersburg/gomart/
-shop: convenience
+shop: Lebensmittel
 ---

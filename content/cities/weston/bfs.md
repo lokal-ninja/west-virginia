@@ -1,5 +1,5 @@
 ---
 title: "BFS"
 url: /weston/bfs/
-shop: convenience
+shop: Lebensmittel
 ---

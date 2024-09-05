@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /barboursville/sheetz/
-shop: convenience
+shop: Lebensmittel
 ---

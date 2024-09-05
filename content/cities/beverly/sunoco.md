@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /beverly/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

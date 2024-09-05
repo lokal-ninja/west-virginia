@@ -1,5 +1,5 @@
 ---
 title: "Thistle Patch"
 url: /huntington/thistle-patch/
-shop: antiques
+shop: Antiquitäten
 ---

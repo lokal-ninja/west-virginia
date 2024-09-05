@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /dunbar/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodbye Horses Tattoo Parlor"
 url: /morgantown/goodbye-horses-tattoo-parlor/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /morgantown/sams-club/
-shop: wholesale
+shop: Großhandel
 ---
