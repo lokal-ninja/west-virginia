@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /morgantown/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

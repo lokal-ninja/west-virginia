@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /weirton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

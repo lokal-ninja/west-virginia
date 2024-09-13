@@ -1,5 +1,5 @@
 ---
 title: "Cupp's Automotive"
 url: /martinsburg/cupps-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /huntington/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

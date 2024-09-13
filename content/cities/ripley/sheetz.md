@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /ripley/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

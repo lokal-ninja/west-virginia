@@ -1,5 +1,5 @@
 ---
 title: "Federated Auto Parts"
 url: /sutton/federated-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

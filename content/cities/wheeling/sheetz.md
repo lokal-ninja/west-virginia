@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /wheeling/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

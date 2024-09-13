@@ -1,5 +1,5 @@
 ---
 title: "First Quality Collision"
 url: /marietta/first-quality-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

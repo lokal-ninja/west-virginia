@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /morgantown/kroger-patteson-drive/
-shop: Supermarkt
+shop: supermarket
 ---

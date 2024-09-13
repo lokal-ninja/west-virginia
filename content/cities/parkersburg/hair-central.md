@@ -1,5 +1,5 @@
 ---
 title: "Hair Central"
 url: /parkersburg/hair-central/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wreck-A-Mended"
 url: /belle/wreck-a-mended/
-shop: Autowerkstatt
+shop: car repair
 ---

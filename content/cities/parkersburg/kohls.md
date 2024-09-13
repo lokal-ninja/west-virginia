@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /parkersburg/kohls/
-shop: Warenhaus
+shop: department store
 ---

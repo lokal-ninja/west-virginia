@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /weston/cato/
-shop: Kleidung
+shop: clothes
 ---

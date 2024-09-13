@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /point-pleasant/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

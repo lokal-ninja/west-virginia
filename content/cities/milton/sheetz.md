@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /milton/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

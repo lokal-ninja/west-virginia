@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /rainelle/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

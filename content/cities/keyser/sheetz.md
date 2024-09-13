@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /keyser/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

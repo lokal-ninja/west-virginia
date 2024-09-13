@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /martinsburg/weis/
-shop: Supermarkt
+shop: supermarket
 ---

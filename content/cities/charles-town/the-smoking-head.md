@@ -1,5 +1,5 @@
 ---
 title: "The Smoking Head"
 url: /charles-town/the-smoking-head/
-shop: Tabak
+shop: tobacco
 ---

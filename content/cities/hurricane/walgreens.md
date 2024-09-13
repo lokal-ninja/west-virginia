@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hurricane/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little General"
 url: /bradley/little-general/
-shop: Lebensmittel
+shop: convenience
 ---

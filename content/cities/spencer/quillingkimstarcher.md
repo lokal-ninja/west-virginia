@@ -1,5 +1,5 @@
 ---
 title: "QuillingKimStarcher"
 url: /spencer/quillingkimstarcher/
-shop: Basteln
+shop: craft
 ---

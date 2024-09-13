@@ -1,5 +1,5 @@
 ---
 title: "Collins' Barber Shop"
 url: /charles-town/collins-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cal's Auto Repair"
 url: /ridgeley/cals-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flowers Unlimited"
 url: /martinsburg/flowers-unlimited/
-shop: Blumen
+shop: florist
 ---

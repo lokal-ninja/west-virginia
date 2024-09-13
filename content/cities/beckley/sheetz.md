@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /beckley/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

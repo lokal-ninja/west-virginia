@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /clarksburg/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

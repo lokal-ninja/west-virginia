@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /huntington/jos-a-bank/
-shop: Kleidung
+shop: clothes
 ---

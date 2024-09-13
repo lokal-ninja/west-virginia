@@ -1,5 +1,5 @@
 ---
 title: "Serenity Day Spa"
 url: /martinsburg/serenity-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

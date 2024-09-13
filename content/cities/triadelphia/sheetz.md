@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /triadelphia/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Second Tyme Around"
 url: /martinsburg/second-tyme-around/
-shop: Antiquitäten
+shop: antiques
 ---

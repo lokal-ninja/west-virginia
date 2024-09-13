@@ -1,5 +1,5 @@
 ---
 title: "Jordan's Flooring"
 url: /martinsburg/jordans-flooring/
-shop: Fußböden
+shop: flooring
 ---

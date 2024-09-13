@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /morgantown/michaels/
-shop: Basteln
+shop: craft
 ---

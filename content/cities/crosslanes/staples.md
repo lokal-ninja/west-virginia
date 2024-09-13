@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /crosslanes/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

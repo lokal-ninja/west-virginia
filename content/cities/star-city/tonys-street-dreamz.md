@@ -1,5 +1,5 @@
 ---
 title: "Tony's Street Dreamz"
 url: /star-city/tonys-street-dreamz/
-shop: Autowerkstatt
+shop: car repair
 ---

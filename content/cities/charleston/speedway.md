@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /charleston/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hurricane/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

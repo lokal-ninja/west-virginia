@@ -1,5 +1,5 @@
 ---
 title: "RV Storage"
 url: /winfield/rv-storage/
-shop: Mieten
+shop: storage rental
 ---

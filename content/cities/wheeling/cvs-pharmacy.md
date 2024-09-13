@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /wheeling/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

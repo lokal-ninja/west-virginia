@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /south-charleston/michaels/
-shop: Basteln
+shop: craft
 ---

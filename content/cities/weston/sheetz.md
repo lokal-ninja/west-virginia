@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
 url: /weston/sheetz/
-shop: Lebensmittel
+shop: convenience
 ---

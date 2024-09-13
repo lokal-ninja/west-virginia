@@ -1,5 +1,5 @@
 ---
 title: "Tucker's Treasurers"
 url: /morgantown/tuckers-treasurers/
-shop: Kramladen
+shop: variety store
 ---

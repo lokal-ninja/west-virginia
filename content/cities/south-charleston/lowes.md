@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /south-charleston/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

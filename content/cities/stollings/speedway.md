@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /stollings/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allen's Furniture"
 url: /princeton/allens-furniture/
-shop: Möbel
+shop: furniture
 ---

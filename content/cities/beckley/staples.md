@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /beckley/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /morgantown/autozone/
-shop: Autoteile
+shop: car parts
 ---

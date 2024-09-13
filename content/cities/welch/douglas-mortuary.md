@@ -1,5 +1,5 @@
 ---
 title: "Douglas Mortuary"
 url: /welch/douglas-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

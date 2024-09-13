@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /south-charleston/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

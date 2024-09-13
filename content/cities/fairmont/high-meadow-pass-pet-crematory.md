@@ -1,5 +1,5 @@
 ---
 title: "High Meadow Pass Pet Crematory"
 url: /fairmont/high-meadow-pass-pet-crematory/
-shop: Bestattungen
+shop: funeral directors
 ---

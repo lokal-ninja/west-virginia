@@ -1,5 +1,5 @@
 ---
 title: "Smoker Friendly"
 url: /glenville/smoker-friendly/
-shop: Tabak
+shop: tobacco
 ---

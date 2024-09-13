@@ -1,5 +1,5 @@
 ---
 title: "Bass Pro Shops"
 url: /morgantown/bass-pro-shops/
-shop: Sport
+shop: sports
 ---

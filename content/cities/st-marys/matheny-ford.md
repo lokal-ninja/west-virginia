@@ -1,5 +1,5 @@
 ---
 title: "Matheny Ford"
 url: /st-marys/matheny-ford/
-shop: Autohaus
+shop: car
 ---

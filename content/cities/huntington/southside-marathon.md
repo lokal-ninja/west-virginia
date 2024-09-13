@@ -1,5 +1,5 @@
 ---
 title: "Southside Marathon"
 url: /huntington/southside-marathon/
-shop: Lebensmittel
+shop: convenience
 ---

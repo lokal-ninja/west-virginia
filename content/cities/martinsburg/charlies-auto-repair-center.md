@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Auto Repair Center"
 url: /martinsburg/charlies-auto-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

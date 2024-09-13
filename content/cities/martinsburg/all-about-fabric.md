@@ -1,5 +1,5 @@
 ---
 title: "All About Fabric"
 url: /martinsburg/all-about-fabric/
-shop: Kleidung
+shop: clothes
 ---

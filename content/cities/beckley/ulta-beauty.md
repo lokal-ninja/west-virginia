@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /beckley/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---
