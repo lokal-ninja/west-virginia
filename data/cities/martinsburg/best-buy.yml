@@ -1,11 +1,11 @@
 id: 546844549
-type: way
+type: node
 latitude: 39.43956
 longitude: -77.99306
 postcode: "25403"
 city: Martinsburg
-street: "Retail Commons Parkway"
-housenumber: 276
-phone: "+1 304-262-5538"
+street: Retail Commons Parkway
+housenumber: "276"
+phone: +1 304-262-5538
 opening_hours: ""
-website: "https://stores.bestbuy.com/wv/martinsburg/276-retail-commons-pkwy-1528.html"
+website: https://stores.bestbuy.com/wv/martinsburg/276-retail-commons-pkwy-1528.html

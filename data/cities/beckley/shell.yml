@@ -1,11 +1,11 @@
 id: 288197107
-type: way
+type: node
 latitude: 37.7921
 longitude: -81.21464
 postcode: "25801"
 city: Beckley
-street: "Harper Road"
-housenumber: 2004
+street: Harper Road
+housenumber: "2004"
 phone: ""
 opening_hours: ""
 website: ""

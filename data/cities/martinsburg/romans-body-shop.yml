@@ -1,11 +1,11 @@
 id: 672090298
-type: way
+type: node
 latitude: 39.43703
 longitude: -77.95704
 postcode: "25045"
 city: Martinsburg
-street: "Grapevine Road"
-housenumber: 190
-phone: "+1-304-267-8579"
+street: Grapevine Road
+housenumber: "190"
+phone: +1-304-267-8579
 opening_hours: ""
 website: ""

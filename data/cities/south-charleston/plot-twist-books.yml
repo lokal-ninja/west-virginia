@@ -1,11 +1,11 @@
 id: 315678416
-type: way
+type: node
 latitude: 38.36483
 longitude: -81.69422
 postcode: "25303"
 city: South Charleston
-street: "D Street"
-housenumber: 209
+street: D Street
+housenumber: "209"
 phone: ""
-opening_hours: "We-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://plottwistbooks.com/"
+opening_hours: We-Sa 10:00-18:00; Su 12:00-17:00
+website: https://plottwistbooks.com/

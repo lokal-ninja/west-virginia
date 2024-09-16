@@ -1,11 +1,11 @@
 id: 592098908
-type: way
+type: node
 latitude: 38.3865
 longitude: -81.59462
 postcode: "25302"
 city: Charleston
-street: "Pennsylvania Avenue"
-housenumber: 2615
-phone: "+1-304-984-6305"
+street: Pennsylvania Avenue
+housenumber: "2615"
+phone: +1-304-984-6305
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wv/charleston/15622"
+website: https://www.dollargeneral.com/store-directory/wv/charleston/15622

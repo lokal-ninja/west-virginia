@@ -1,11 +1,11 @@
 id: 334629982
-type: way
+type: node
 latitude: 38.35051
 longitude: -81.63379
 postcode: "25301"
 city: Charleston
-street: "Capitol Street"
-housenumber: 238
+street: Capitol Street
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

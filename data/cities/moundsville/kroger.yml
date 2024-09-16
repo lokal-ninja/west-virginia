@@ -1,11 +1,11 @@
 id: 837363068
-type: way
+type: node
 latitude: 39.91105
 longitude: -80.74558
 postcode: "26041"
 city: Moundsville
-street: "Lafayette Avenue"
-housenumber: 1212
-phone: "+1 304-845-8116"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/wv/moundsville/moundsville/016/00977"
+street: Lafayette Avenue
+housenumber: "1212"
+phone: +1 304-845-8116
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/wv/moundsville/moundsville/016/00977

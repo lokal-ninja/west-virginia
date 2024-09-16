@@ -1,11 +1,11 @@
 id: 908383482
-type: way
+type: node
 latitude: 37.63896
 longitude: -80.78813
 postcode: "25951"
 city: Hinton
-street: "Doug Craft Road"
-housenumber: 107
-phone: "+1-304-466-0481"
+street: Doug Craft Road
+housenumber: "107"
+phone: +1-304-466-0481
 opening_hours: ""
 website: ""

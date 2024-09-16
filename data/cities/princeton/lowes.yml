@@ -1,11 +1,11 @@
 id: 678174796
-type: way
+type: node
 latitude: 37.36617
 longitude: -81.04966
 postcode: "24740"
 city: Princeton
-street: "Oakvale Road"
-housenumber: 1155
-phone: "+1 304-431-1660"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wv-princeton/1984"
+street: Oakvale Road
+housenumber: "1155"
+phone: +1 304-431-1660
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wv-princeton/1984

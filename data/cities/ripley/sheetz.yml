@@ -1,11 +1,11 @@
 id: 613971351
-type: way
+type: node
 latitude: 38.82212
 longitude: -81.7242
 postcode: "25271"
 city: Ripley
-street: "West Main Street"
-housenumber: 701
-phone: "+1 304-514-5515"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/584"
+street: West Main Street
+housenumber: "701"
+phone: +1 304-514-5515
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/584

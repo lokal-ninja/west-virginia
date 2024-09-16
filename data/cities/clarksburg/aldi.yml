@@ -1,11 +1,11 @@
 id: 854090181
-type: way
+type: node
 latitude: 39.26062
 longitude: -80.28471
 postcode: "26301"
 city: Clarksburg
-street: "Emily Drive"
-housenumber: 555
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wv/clarksburg/555-emily-dr"
+street: Emily Drive
+housenumber: "555"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wv/clarksburg/555-emily-dr

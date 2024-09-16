@@ -1,11 +1,11 @@
 id: 449628704
-type: way
+type: node
 latitude: 38.53586
 longitude: -81.92837
 postcode: "25070"
 city: Eleanor
-street: "Roosevelt Boulevard"
-housenumber: 501
+street: Roosevelt Boulevard
+housenumber: "501"
 phone: ""
-opening_hours: "09:00-21:00"
+opening_hours: 09:00-21:00
 website: ""

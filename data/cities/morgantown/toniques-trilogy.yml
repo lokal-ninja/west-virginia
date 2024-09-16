@@ -1,11 +1,11 @@
 id: 398072942
-type: way
+type: node
 latitude: 39.63153
 longitude: -79.95627
 postcode: "26505"
 city: Morgantown
-street: "Fayette Street"
-housenumber: 130
+street: Fayette Street
+housenumber: "130"
 phone: "+13042914050"
 opening_hours: ""
-website: "https://tonique.com/"
+website: https://tonique.com/

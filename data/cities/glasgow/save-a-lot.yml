@@ -1,11 +1,11 @@
 id: 402535844
-type: way
+type: node
 latitude: 38.21653
 longitude: -81.42535
 postcode: "25039"
 city: Glasgow
-street: "US-60"
-housenumber: 5555
-phone: "+1-304-595-6459"
-opening_hours: "Mo-Fr 08:00-20:00, Su 10:00-19:00"
+street: US-60
+housenumber: "5555"
+phone: +1-304-595-6459
+opening_hours: Mo-Fr 08:00-20:00, Su 10:00-19:00
 website: ""

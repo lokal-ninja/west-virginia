@@ -1,11 +1,11 @@
 id: 672089300
-type: way
+type: node
 latitude: 39.43751
 longitude: -77.96177
 postcode: "25401"
 city: Martinsburg
-street: "Kelly Island Road"
-housenumber: 48
-phone: "+1-304-263-8821"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.millerschryslerjeep.com/"
+street: Kelly Island Road
+housenumber: "48"
+phone: +1-304-263-8821
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.millerschryslerjeep.com/

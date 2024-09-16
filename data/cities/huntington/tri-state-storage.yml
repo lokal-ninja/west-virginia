@@ -1,11 +1,11 @@
 id: 643131060
-type: way
+type: node
 latitude: 38.41334
 longitude: -82.45496
 postcode: "25701"
 city: Huntington
-street: "8th Avenue"
-housenumber: 114
+street: 8th Avenue
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 343467470
-type: way
+type: node
 latitude: 38.05692
 longitude: -81.82456
 postcode: "25130"
 city: Madison
-street: "South Main Street"
-housenumber: 700
+street: South Main Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

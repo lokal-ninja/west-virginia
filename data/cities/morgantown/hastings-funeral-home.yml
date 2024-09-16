@@ -1,11 +1,11 @@
 id: 403774889
-type: way
+type: node
 latitude: 39.62788
 longitude: -79.95668
 postcode: "26505"
 city: Morgantown
-street: "Spruce Street"
-housenumber: 153
-phone: "+1-304-292-8664"
+street: Spruce Street
+housenumber: "153"
+phone: +1-304-292-8664
 opening_hours: ""
-website: "https://hastingsfuneralhome.com/"
+website: https://hastingsfuneralhome.com/

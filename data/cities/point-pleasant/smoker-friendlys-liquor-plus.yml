@@ -4,8 +4,8 @@ latitude: 38.84054
 longitude: -82.13793
 postcode: "25550"
 city: Point Pleasant
-street: "Jones Street"
-housenumber: 203
-phone: "+1-304-675-4666"
+street: Jones Street
+housenumber: "203"
+phone: +1-304-675-4666
 opening_hours: ""
-website: "https://www.smokerfriendlywv.com/"
+website: https://www.smokerfriendlywv.com/

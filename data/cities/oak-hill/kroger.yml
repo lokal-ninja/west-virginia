@@ -1,11 +1,11 @@
 id: 468736005
-type: way
+type: node
 latitude: 38.01222
 longitude: -81.1281
 postcode: "25901"
 city: Oak Hill
-street: "Mall Road"
-housenumber: 411
-phone: "+1 304-469-2921"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/wv/oak-hill/oak-hill/029/00780"
+street: Mall Road
+housenumber: "411"
+phone: +1 304-469-2921
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/wv/oak-hill/oak-hill/029/00780

@@ -1,11 +1,11 @@
 id: 672093712
-type: way
+type: node
 latitude: 39.29391
 longitude: -77.84388
 postcode: "25414"
 city: Charles Town
-street: "Willow Spring Drive"
-housenumber: 40
-phone: "+1-304-724-0002"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-40+flowing+springs+way-charles+town-wv-25414/id=15189"
+street: Willow Spring Drive
+housenumber: "40"
+phone: +1-304-724-0002
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-40+flowing+springs+way-charles+town-wv-25414/id=15189

@@ -1,11 +1,11 @@
 id: 879843634
-type: way
+type: node
 latitude: 39.12766
 longitude: -79.46863
 postcode: "26260"
 city: Davis
-street: "William Avenue"
-housenumber: 685
-phone: "+1-304-259-5286"
-opening_hours: "Su 10:00-16:00; Mo,Th 10:00-17:00; Fr,Sa 10:00-18:00; Tu,We closed"
-website: "https://www.blackwaterbikes.com/"
+street: William Avenue
+housenumber: "685"
+phone: +1-304-259-5286
+opening_hours: Su 10:00-16:00; Mo,Th 10:00-17:00; Fr,Sa 10:00-18:00; Tu,We closed
+website: https://www.blackwaterbikes.com/

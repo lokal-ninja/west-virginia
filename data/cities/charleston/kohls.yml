@@ -4,8 +4,8 @@ latitude: 38.32637
 longitude: -81.71618
 postcode: "25309"
 city: Charleston
-street: "RHL Boulevard"
-housenumber: 222
-phone: "+1 304-744-4316"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/wv/charleston-327.shtml"
+street: RHL Boulevard
+housenumber: "222"
+phone: +1 304-744-4316
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/wv/charleston-327.shtml

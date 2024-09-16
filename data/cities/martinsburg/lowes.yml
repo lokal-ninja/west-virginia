@@ -1,11 +1,11 @@
 id: 227372304
-type: way
+type: node
 latitude: 39.44394
 longitude: -77.98514
 postcode: "25401"
 city: Martinsburg
-street: "Apple Harvest Drive"
-housenumber: 14725
-phone: "+1 304-267-7009"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0627"
+street: Apple Harvest Drive
+housenumber: "14725"
+phone: +1 304-267-7009
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0627

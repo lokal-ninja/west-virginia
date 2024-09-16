@@ -1,11 +1,11 @@
 id: 338390503
-type: way
+type: node
 latitude: 38.4182
 longitude: -82.44167
 postcode: "25701"
 city: Huntington
-street: "6th Avenue"
-housenumber: 949
+street: 6th Avenue
+housenumber: "949"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

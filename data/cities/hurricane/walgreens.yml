@@ -1,11 +1,11 @@
 id: 349903445
-type: way
+type: node
 latitude: 38.4503
 longitude: -81.94055
 postcode: "25526"
 city: Hurricane
-street: "State Route 34"
-housenumber: 215
+street: State Route 34
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-215+state+route+34-hurricane-wv-25526/id=17409"
+website: https://www.walgreens.com/locator/walgreens-215+state+route+34-hurricane-wv-25526/id=17409

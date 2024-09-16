@@ -1,11 +1,11 @@
 id: 746776158
-type: way
+type: node
 latitude: 38.47916
 longitude: -80.4143
-postcode: "26288-1005"
+postcode: 26288-1005
 city: Webster Springs
-street: "Baker Island Road"
-housenumber: 35
-phone: "+1 304-847-7878"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-19:00"
+street: Baker Island Road
+housenumber: "35"
+phone: +1 304-847-7878
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-19:00
 website: ""

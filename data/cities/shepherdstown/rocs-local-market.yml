@@ -1,11 +1,11 @@
 id: 983097956
-type: way
+type: node
 latitude: 39.43315
 longitude: -77.81458
 postcode: "25443"
 city: Shepherdstown
-street: "Martinsburg Pike"
-housenumber: 8272
+street: Martinsburg Pike
+housenumber: "8272"
 phone: ""
 opening_hours: ""
 website: ""

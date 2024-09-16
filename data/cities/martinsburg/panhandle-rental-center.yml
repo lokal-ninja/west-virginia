@@ -1,11 +1,11 @@
 id: 545466668
-type: way
+type: node
 latitude: 39.44839
 longitude: -77.98194
 postcode: "25401"
 city: Martinsburg
-street: "Washington Avenue"
-housenumber: 1121
+street: Washington Avenue
+housenumber: "1121"
 phone: ""
 opening_hours: ""
 website: ""

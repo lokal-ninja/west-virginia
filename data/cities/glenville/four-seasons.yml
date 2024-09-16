@@ -1,11 +1,11 @@
 id: 842448586
-type: way
+type: node
 latitude: 38.94124
 longitude: -80.82309
 postcode: "26351"
 city: Glenville
-street: "North Lewis Street"
-housenumber: 954
+street: North Lewis Street
+housenumber: "954"
 phone: ""
 opening_hours: ""
 website: ""

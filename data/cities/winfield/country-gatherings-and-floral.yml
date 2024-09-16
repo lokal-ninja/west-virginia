@@ -1,11 +1,11 @@
 id: 1059570299
-type: way
+type: node
 latitude: 38.53705
 longitude: -81.88744
 postcode: "25213"
 city: Winfield
-street: "Winfield Road"
-housenumber: 11754
+street: Winfield Road
+housenumber: "11754"
 phone: ""
 opening_hours: ""
 website: ""

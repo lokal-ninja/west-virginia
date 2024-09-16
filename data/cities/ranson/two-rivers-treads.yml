@@ -1,11 +1,11 @@
 id: 1136333918
-type: way
+type: node
 latitude: 39.29423
 longitude: -77.85999
 postcode: "25438"
 city: Ranson
-street: "South Mildred Street"
-housenumber: 400
-phone: "(304) 885-8843"
-opening_hours: "Mo-Fr 11:00-18:00; Su 00:00-17:00; Sa 10:00-18:00"
-website: "https://tworiverstreads.com/"
+street: South Mildred Street
+housenumber: "400"
+phone: (304) 885-8843
+opening_hours: Mo-Fr 11:00-18:00; Su 00:00-17:00; Sa 10:00-18:00
+website: https://tworiverstreads.com/

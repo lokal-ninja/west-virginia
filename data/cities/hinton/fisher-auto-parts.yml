@@ -1,11 +1,11 @@
 id: 890502498
-type: way
+type: node
 latitude: 37.66659
 longitude: -80.8933
 postcode: "25951"
 city: Hinton
-street: "Pleasant Street"
-housenumber: 97
+street: Pleasant Street
+housenumber: "97"
 phone: "+13044662054"
 opening_hours: ""
-website: "http://www.fisherautoparts.com/"
+website: http://www.fisherautoparts.com/

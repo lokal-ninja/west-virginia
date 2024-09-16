@@ -1,11 +1,11 @@
 id: 890500421
-type: way
+type: node
 latitude: 37.66906
 longitude: -80.89337
 postcode: "25951"
 city: Hinton
-street: "Grace Street"
-housenumber: 80
-phone: "+1-304-466-0522"
+street: Grace Street
+housenumber: "80"
+phone: +1-304-466-0522
 opening_hours: ""
-website: "https://goresautobody.com/"
+website: https://goresautobody.com/

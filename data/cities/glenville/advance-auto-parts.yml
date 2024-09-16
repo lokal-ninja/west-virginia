@@ -1,11 +1,11 @@
 id: 842040561
-type: way
+type: node
 latitude: 38.93855
 longitude: -80.81791
 postcode: "26351"
 city: Glenville
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wv/glenville/3-foodland-plz"
+website: https://stores.advanceautoparts.com/wv/glenville/3-foodland-plz

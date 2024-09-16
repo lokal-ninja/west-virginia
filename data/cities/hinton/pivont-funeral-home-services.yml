@@ -1,11 +1,11 @@
 id: 890500419
-type: way
+type: node
 latitude: 37.67153
 longitude: -80.89166
 postcode: "25951"
 city: Hinton
-street: "Park Avenue"
-housenumber: 100
-phone: "+1-304-466-0026"
+street: Park Avenue
+housenumber: "100"
+phone: +1-304-466-0026
 opening_hours: ""
-website: "https://www.pivontfuneralhome.com/"
+website: https://www.pivontfuneralhome.com/

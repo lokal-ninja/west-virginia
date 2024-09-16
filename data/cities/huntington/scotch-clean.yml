@@ -1,11 +1,11 @@
 id: 789619503
-type: way
+type: node
 latitude: 38.42651
 longitude: -82.41595
 postcode: ""
 city: Huntington
-street: "3rd Avenue"
-housenumber: 2403
+street: 3rd Avenue
+housenumber: "2403"
 phone: ""
 opening_hours: ""
 website: ""

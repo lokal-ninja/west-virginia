@@ -1,11 +1,11 @@
 id: 349903661
-type: way
+type: node
 latitude: 38.44199
 longitude: -82.01767
 postcode: "25526"
 city: Hurricane
-street: "Saturn Way"
-housenumber: 200
-phone: "+1-304-397-5267"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.yeschevrolet.com/"
+street: Saturn Way
+housenumber: "200"
+phone: +1-304-397-5267
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.yeschevrolet.com/

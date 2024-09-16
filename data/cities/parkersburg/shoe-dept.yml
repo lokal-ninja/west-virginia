@@ -1,11 +1,11 @@
 id: 398618588
-type: way
+type: node
 latitude: 39.21764
 longitude: -81.54738
 postcode: "26101"
 city: Parkersburg
-street: "Walton Drive"
-housenumber: 6
+street: Walton Drive
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 828919811
-type: way
+type: node
 latitude: 40.05877
 longitude: -80.72486
 postcode: "26003"
 city: Wheeling
-street: "Market Street"
-housenumber: 2265
+street: Market Street
+housenumber: "2265"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 890500416
-type: way
+type: node
 latitude: 37.6736
 longitude: -80.89139
 postcode: "25951"
 city: Hinton
-street: "Temple Street"
-housenumber: 130
-phone: "+1-304-466-1179"
+street: Temple Street
+housenumber: "130"
+phone: +1-304-466-1179
 opening_hours: ""
-website: "https://www.ronaldmeadowsfp.com"
+website: https://www.ronaldmeadowsfp.com

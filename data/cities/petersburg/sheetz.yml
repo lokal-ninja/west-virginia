@@ -1,11 +1,11 @@
 id: 957868823
-type: way
+type: node
 latitude: 38.99974
 longitude: -79.12828
 postcode: "26847"
 city: Petersburg
-street: "Bryan Street"
-housenumber: 299
-phone: "+1 304-257-9214"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/212"
+street: Bryan Street
+housenumber: "299"
+phone: +1 304-257-9214
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/212

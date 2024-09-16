@@ -1,11 +1,11 @@
 id: 1200923770
-type: way
+type: node
 latitude: 38.03162
 longitude: -81.12413
 postcode: "25840"
 city: Fayetteville
-street: "Whitewater Avenue"
-housenumber: 27
-phone: "+1 304-574-2615"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/444"
+street: Whitewater Avenue
+housenumber: "27"
+phone: +1 304-574-2615
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/444

@@ -1,11 +1,11 @@
 id: 335701873
-type: way
+type: node
 latitude: 38.36088
 longitude: -81.63919
 postcode: "25302"
 city: Charleston
-street: "Bigley Avenue"
-housenumber: 731
+street: Bigley Avenue
+housenumber: "731"
 phone: ""
 opening_hours: ""
 website: ""

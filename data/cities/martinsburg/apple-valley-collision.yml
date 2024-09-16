@@ -1,11 +1,11 @@
 id: 596287994
-type: way
+type: node
 latitude: 39.44473
 longitude: -77.97086
 postcode: "25401"
 city: Martinsburg
-street: "Wilson Street"
-housenumber: 301
-phone: "+1-304-267-7800"
+street: Wilson Street
+housenumber: "301"
+phone: +1-304-267-7800
 opening_hours: ""
-website: "https://www.autobody-review.com/shop/52555/apple-valley-collision"
+website: https://www.autobody-review.com/shop/52555/apple-valley-collision

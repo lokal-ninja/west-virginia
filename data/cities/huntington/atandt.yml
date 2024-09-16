@@ -4,8 +4,8 @@ latitude: 38.42186
 longitude: -82.44398
 postcode: "25701"
 city: Huntington
-street: "3rd Avenue"
-housenumber: 901
+street: 3rd Avenue
+housenumber: "901"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
 website: ""

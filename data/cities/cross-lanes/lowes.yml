@@ -1,11 +1,11 @@
 id: 546246891
-type: way
+type: node
 latitude: 38.4123
 longitude: -81.81145
 postcode: "25313"
 city: Cross Lanes
-street: "Nitro Marketplace"
-housenumber: 1000
-phone: "+1 304-776-0803"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wv-cross-lanes/0616"
+street: Nitro Marketplace
+housenumber: "1000"
+phone: +1 304-776-0803
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wv-cross-lanes/0616

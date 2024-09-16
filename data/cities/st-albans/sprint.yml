@@ -1,11 +1,11 @@
 id: 945889147
-type: way
+type: node
 latitude: 38.38716
 longitude: -81.82514
 postcode: "25177"
 city: St. Albans
-street: "MacCorkle Avenue"
-housenumber: 1447
-phone: "+1-304-729-8064"
-opening_hours: "Mo-Sa 10:00-19:00, Su 12:00-17:00"
-website: "https://www.t-mobile.com/store-locator/wv/st-albans/maccorkle-ave-4th-ave"
+street: MacCorkle Avenue
+housenumber: "1447"
+phone: +1-304-729-8064
+opening_hours: Mo-Sa 10:00-19:00, Su 12:00-17:00
+website: https://www.t-mobile.com/store-locator/wv/st-albans/maccorkle-ave-4th-ave

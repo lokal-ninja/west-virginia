@@ -1,11 +1,11 @@
 id: 288251900
-type: way
+type: node
 latitude: 37.75473
 longitude: -81.22137
 postcode: "25873"
 city: Macarthur
-street: "Robert C Byrd Drive"
-housenumber: 1881
-phone: "+1 304-256-6480"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5319/macarthur-wv/whats-new"
+street: Robert C Byrd Drive
+housenumber: "1881"
+phone: +1 304-256-6480
+opening_hours: 24/7
+website: https://www.walmart.com/store/5319/macarthur-wv/whats-new

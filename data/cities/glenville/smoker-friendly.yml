@@ -1,11 +1,11 @@
 id: 842046296
-type: way
+type: node
 latitude: 38.93439
 longitude: -80.83859
 postcode: "26351"
 city: Glenville
-street: "West Main Street"
-housenumber: 29
+street: West Main Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 390953879
-type: way
+type: node
 latitude: 38.99888
 longitude: -80.23302
 postcode: "26201"
 city: Buckhannon
-street: "North Locust Street"
-housenumber: 341
-phone: "+1 304-460-2429"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/214"
+street: North Locust Street
+housenumber: "341"
+phone: +1 304-460-2429
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/214

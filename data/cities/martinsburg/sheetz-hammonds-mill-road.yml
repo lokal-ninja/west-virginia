@@ -1,11 +1,11 @@
 id: 1167801239
-type: way
+type: node
 latitude: 39.54481
 longitude: -77.90645
 postcode: "25404"
 city: Martinsburg
-street: "Hammonds Mill Road"
-housenumber: 5715
-phone: "+1 304-271-8712"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/425"
+street: Hammonds Mill Road
+housenumber: "5715"
+phone: +1 304-271-8712
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/425

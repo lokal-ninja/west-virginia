@@ -1,11 +1,11 @@
 id: 1188419814
-type: way
+type: node
 latitude: 40.06542
 longitude: -80.71894
 postcode: "26003"
 city: Wheeling
-street: "15th Street"
-housenumber: 43
+street: 15th Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

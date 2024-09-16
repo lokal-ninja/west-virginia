@@ -1,11 +1,11 @@
 id: 829467065
-type: way
+type: node
 latitude: 39.2671
 longitude: -81.54018
 postcode: "26101"
 city: Parkersburg
-street: "Plum Street"
-housenumber: 1206
-phone: "+1 304-428-9165"
+street: Plum Street
+housenumber: "1206"
+phone: +1 304-428-9165
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 526178481
-type: way
+type: node
 latitude: 39.65816
 longitude: -79.99068
 postcode: "26505"
 city: Star City
-street: "Monongahela Boulevard"
-housenumber: 3522
-phone: "+1 304-599-3100"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/486"
+street: Monongahela Boulevard
+housenumber: "3522"
+phone: +1 304-599-3100
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/486

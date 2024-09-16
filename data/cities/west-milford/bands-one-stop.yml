@@ -1,11 +1,11 @@
 id: 449722989
-type: way
+type: node
 latitude: 39.20245
 longitude: -80.40404
 postcode: "26451"
 city: West Milford
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

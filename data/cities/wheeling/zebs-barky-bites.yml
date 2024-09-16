@@ -1,11 +1,11 @@
 id: 831360507
-type: way
+type: node
 latitude: 40.05961
 longitude: -80.72425
 postcode: "26003"
 city: Wheeling
-street: "Market Street"
-housenumber: 2200
-phone: "+1-304-771-4590"
+street: Market Street
+housenumber: "2200"
+phone: +1-304-771-4590
 opening_hours: ""
-website: "https://zebsbarkybites.com/"
+website: https://zebsbarkybites.com/

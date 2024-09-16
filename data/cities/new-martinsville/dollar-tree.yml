@@ -1,11 +1,11 @@
 id: 1231137307
-type: way
+type: node
 latitude: 39.64387
 longitude: -80.86448
 postcode: "26155"
 city: New Martinsville
-street: "North Street"
-housenumber: 164
+street: North Street
+housenumber: "164"
 phone: ""
 opening_hours: ""
 website: ""

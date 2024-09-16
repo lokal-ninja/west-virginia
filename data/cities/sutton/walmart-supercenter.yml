@@ -1,11 +1,11 @@
 id: 421832948
-type: way
+type: node
 latitude: 38.70767
 longitude: -80.66587
 postcode: "26601"
 city: Sutton
-street: "Scott Fork Road"
-housenumber: 369
-phone: "+1 304-689-3004"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/6951/sutton-wv/whats-new"
+street: Scott Fork Road
+housenumber: "369"
+phone: +1 304-689-3004
+opening_hours: 24/7
+website: https://www.walmart.com/store/6951/sutton-wv/whats-new

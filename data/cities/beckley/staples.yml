@@ -1,11 +1,11 @@
 id: 343974621
-type: way
+type: node
 latitude: 37.80826
 longitude: -81.18288
 postcode: "25801"
 city: Beckley
-street: "By Pass Plaza"
-housenumber: 18
+street: By Pass Plaza
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/wv/beckley/18-by-pass-plaza"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/wv/beckley/18-by-pass-plaza

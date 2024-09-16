@@ -1,11 +1,11 @@
 id: 376461003
-type: way
+type: node
 latitude: 39.34105
 longitude: -78.75531
 postcode: "26757"
 city: Romney
-street: "East Main Street"
-housenumber: 136
-phone: "+1 304-822-4063"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/180"
+street: East Main Street
+housenumber: "136"
+phone: +1 304-822-4063
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/180

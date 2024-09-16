@@ -1,11 +1,11 @@
 id: 932242663
-type: way
+type: node
 latitude: 40.06045
 longitude: -80.58911
 postcode: "26059"
 city: Triadelphia
-street: "Gantzer Ridge Road"
-housenumber: 25
-phone: "+1 304-909-0224"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/650"
+street: Gantzer Ridge Road
+housenumber: "25"
+phone: +1 304-909-0224
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/650

@@ -1,11 +1,11 @@
 id: 398444699
-type: way
+type: node
 latitude: 39.3034
 longitude: -81.54987
 postcode: "26105"
 city: Vienna
-street: "Grand Central Avenue"
-housenumber: 501
+street: Grand Central Avenue
+housenumber: "501"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
 website: ""

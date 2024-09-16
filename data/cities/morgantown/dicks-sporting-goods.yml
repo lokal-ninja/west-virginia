@@ -1,11 +1,11 @@
 id: 281239036
-type: way
+type: node
 latitude: 39.64912
 longitude: -80.00389
 postcode: "26501"
 city: Morgantown
-street: "Giant Street"
-housenumber: 596
-phone: "+1 304-598-0554"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wv/granville/243/"
+street: Giant Street
+housenumber: "596"
+phone: +1 304-598-0554
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wv/granville/243/

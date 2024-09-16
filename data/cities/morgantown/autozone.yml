@@ -1,11 +1,11 @@
 id: 587071669
-type: way
+type: node
 latitude: 39.64278
 longitude: -79.96389
 postcode: "26505"
 city: Morgantown
-street: "Monongahela Boulevard"
-housenumber: 824
+street: Monongahela Boulevard
+housenumber: "824"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wv/morgantown/824-monongahela-blvd.html"
+website: https://www.autozone.com/locations/wv/morgantown/824-monongahela-blvd.html

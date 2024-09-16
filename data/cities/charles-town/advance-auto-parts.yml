@@ -1,11 +1,11 @@
 id: 233813208
-type: way
+type: node
 latitude: 39.29289
 longitude: -77.84781
 postcode: "25414"
 city: Charles Town
-street: "East Washington Street"
-housenumber: 890
+street: East Washington Street
+housenumber: "890"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wv/charles-town/890-e-washington-st"
+website: https://stores.advanceautoparts.com/wv/charles-town/890-e-washington-st

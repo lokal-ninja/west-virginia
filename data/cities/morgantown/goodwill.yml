@@ -1,11 +1,11 @@
 id: 395212069
-type: way
+type: node
 latitude: 39.61787
 longitude: -79.92342
 postcode: "26505"
 city: Morgantown
-street: "Hunter's Way"
-housenumber: 1954
+street: Hunter's Way
+housenumber: "1954"
 phone: ""
 opening_hours: ""
 website: ""

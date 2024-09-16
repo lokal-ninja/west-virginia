@@ -1,11 +1,11 @@
 id: 1288922001
-type: way
+type: node
 latitude: 39.20869
 longitude: -81.15691
 postcode: "26337"
 city: Cairo
-street: "Main Street"
-housenumber: 286
+street: Main Street
+housenumber: "286"
 phone: ""
-opening_hours: "09:00-17:00"
+opening_hours: 09:00-17:00
 website: ""

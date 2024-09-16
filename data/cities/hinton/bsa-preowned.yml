@@ -1,11 +1,11 @@
 id: 1148406139
-type: way
+type: node
 latitude: 37.6506
 longitude: -80.88169
 postcode: "25951"
 city: Hinton
-street: "Greenbrier Drive"
-housenumber: 300
-phone: "+1 304-309-5040"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Greenbrier Drive
+housenumber: "300"
+phone: +1 304-309-5040
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

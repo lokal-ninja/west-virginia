@@ -1,11 +1,11 @@
 id: 402534534
-type: way
+type: node
 latitude: 38.2208
 longitude: -81.4488
 postcode: "25039"
 city: Cedar Grove
-street: "US-60"
-housenumber: 3399
+street: US-60
+housenumber: "3399"
 phone: ""
 opening_hours: ""
 website: ""

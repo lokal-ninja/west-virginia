@@ -1,11 +1,11 @@
 id: 544268172
-type: way
+type: node
 latitude: 39.4828
 longitude: -77.96191
 postcode: "25404"
 city: Martinsburg
-street: "Lutz Avenue"
-housenumber: 540
+street: Lutz Avenue
+housenumber: "540"
 phone: ""
 opening_hours: ""
 website: ""

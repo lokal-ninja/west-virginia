@@ -1,11 +1,11 @@
 id: 336121399
-type: way
+type: node
 latitude: 39.02021
 longitude: -80.41533
 postcode: "26452"
 city: Weston
-street: "Berlin Road"
-housenumber: 110
-phone: "+1 304-269-1549"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1653/weston-wv/whats-new"
+street: Berlin Road
+housenumber: "110"
+phone: +1 304-269-1549
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1653/weston-wv/whats-new

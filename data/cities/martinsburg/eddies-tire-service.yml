@@ -1,11 +1,11 @@
 id: 624291610
-type: way
+type: node
 latitude: 39.4596
 longitude: -77.97627
 postcode: "25401"
 city: Martinsburg
-street: "West King Street"
-housenumber: 926
-phone: "+1-304-258-1368"
+street: West King Street
+housenumber: "926"
+phone: +1-304-258-1368
 opening_hours: ""
-website: "https://www.eddiestireservice.com/"
+website: https://www.eddiestireservice.com/

@@ -1,11 +1,11 @@
 id: 906005698
-type: way
+type: node
 latitude: 38.88332
 longitude: -82.12468
 postcode: "25550"
 city: Point Pleasant
-street: "Ohio River Road"
-housenumber: 165
-phone: "+1-304-814-9486"
+street: Ohio River Road
+housenumber: "165"
+phone: +1-304-814-9486
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wv/point-pleasant/4973"
+website: https://www.dollargeneral.com/store-directory/wv/point-pleasant/4973

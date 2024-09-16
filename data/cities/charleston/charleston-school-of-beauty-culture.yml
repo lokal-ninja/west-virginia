@@ -4,8 +4,8 @@ latitude: 38.3177
 longitude: -81.5787
 postcode: "25304"
 city: Charleston
-street: "50th St SE"
-housenumber: 514
-phone: "304-346-9603"
-opening_hours: "Tu-Fr 10:30-16:00, Sa 08:00-16:00"
-website: "https://wvcsbc.net"
+street: 50th St SE
+housenumber: "514"
+phone: 304-346-9603
+opening_hours: Tu-Fr 10:30-16:00, Sa 08:00-16:00
+website: https://wvcsbc.net

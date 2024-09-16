@@ -1,11 +1,11 @@
 id: 648898564
-type: way
+type: node
 latitude: 39.57838
 longitude: -78.25634
 postcode: "25411"
 city: Berkeley Springs
-street: "Valley Road"
-housenumber: 3720
-phone: "+1 304-258-6636"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Valley Road
+housenumber: "3720"
+phone: +1 304-258-6636
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

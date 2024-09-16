@@ -1,11 +1,11 @@
 id: 294601151
-type: way
+type: node
 latitude: 39.44171
 longitude: -77.97649
 postcode: "25401"
 city: Martinsburg
-street: "Sheridan Avenue"
-housenumber: 751
+street: Sheridan Avenue
+housenumber: "751"
 phone: ""
 opening_hours: ""
 website: ""

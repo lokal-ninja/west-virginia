@@ -1,11 +1,11 @@
 id: 890500396
-type: way
+type: node
 latitude: 37.67349
 longitude: -80.89113
 postcode: "25951"
 city: Hinton
-street: "2nd Avenue"
-housenumber: 306
+street: 2nd Avenue
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

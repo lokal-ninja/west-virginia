@@ -1,11 +1,11 @@
 id: 995969503
-type: way
+type: node
 latitude: 38.5354
 longitude: -81.9281
 postcode: "25070"
 city: Eleanor
-street: "Ash Circle"
-housenumber: 303
-phone: "+1-304-586-9797"
+street: Ash Circle
+housenumber: "303"
+phone: +1-304-586-9797
 opening_hours: ""
-website: "https://www.raynesfuneralhome.com"
+website: https://www.raynesfuneralhome.com

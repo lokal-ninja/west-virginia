@@ -1,11 +1,11 @@
 id: 842040562
-type: way
+type: node
 latitude: 38.93802
 longitude: -80.81821
 postcode: "26351"
 city: Glenville
-street: "Fairground Road"
-housenumber: 75
+street: Fairground Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

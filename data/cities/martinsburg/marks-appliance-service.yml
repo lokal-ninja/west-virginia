@@ -1,11 +1,11 @@
 id: 597013764
-type: way
+type: node
 latitude: 39.45511
 longitude: -77.97156
 postcode: "25401"
 city: Martinsburg
-street: "West Stephen Street"
-housenumber: 534
+street: West Stephen Street
+housenumber: "534"
 phone: ""
 opening_hours: ""
 website: ""

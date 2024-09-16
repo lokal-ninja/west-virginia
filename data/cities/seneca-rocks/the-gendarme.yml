@@ -1,11 +1,11 @@
 id: 339815610
-type: way
+type: node
 latitude: 38.83408
 longitude: -79.37703
 postcode: "26884"
 city: Seneca Rocks
-street: "Allegheny Drive"
-housenumber: 27
-phone: "+1-304-567-2600"
+street: Allegheny Drive
+housenumber: "27"
+phone: +1-304-567-2600
 opening_hours: ""
-website: "https://climbseneca.com/"
+website: https://climbseneca.com/

@@ -1,11 +1,11 @@
 id: 890500391
-type: way
+type: node
 latitude: 37.67379
 longitude: -80.89017
 postcode: "25951"
 city: Hinton
-street: "3rd Avenue"
-housenumber: 310
-phone: "+1-304-466-5000"
+street: 3rd Avenue
+housenumber: "310"
+phone: +1-304-466-5000
 opening_hours: ""
-website: "https://www.facebook.com/Hinton-Gun-and-Pawn-1272730966212838/"
+website: https://www.facebook.com/Hinton-Gun-and-Pawn-1272730966212838/

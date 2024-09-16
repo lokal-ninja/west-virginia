@@ -1,11 +1,11 @@
 id: 1197859259
-type: way
+type: node
 latitude: 38.19917
 longitude: -80.86129
 postcode: "26679"
 city: Mount Nebo
-street: "Mountain Lake Dr"
-housenumber: 25
-phone: "+1 304-880-0451"
+street: Mountain Lake Dr
+housenumber: "25"
+phone: +1 304-880-0451
 opening_hours: ""
-website: "http://www.xooma.biz"
+website: http://www.xooma.biz

@@ -4,8 +4,8 @@ latitude: 38.42224
 longitude: -82.44438
 postcode: "25701"
 city: Huntington
-street: "9th Street"
-housenumber: 289
+street: 9th Street
+housenumber: "289"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

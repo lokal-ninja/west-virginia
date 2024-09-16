@@ -1,11 +1,11 @@
 id: 932711304
-type: way
+type: node
 latitude: 38.3868
 longitude: -81.82382
 postcode: "25177"
 city: St. Albans
-street: "MacCorkle Avenue"
-housenumber: 1473
-phone: "+1 304-721-8830"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://stores.ashleyfurniture.com/store/us/west-virginia/st-albans/9000512773/"
+street: MacCorkle Avenue
+housenumber: "1473"
+phone: +1 304-721-8830
+opening_hours: Mo-Sa 10:00-18:00
+website: https://stores.ashleyfurniture.com/store/us/west-virginia/st-albans/9000512773/

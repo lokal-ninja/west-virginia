@@ -1,11 +1,11 @@
 id: 393297573
-type: way
+type: node
 latitude: 39.26149
 longitude: -77.83047
 postcode: "25414"
 city: Charles Town
-street: "Charles Town Road"
-housenumber: 15949
-phone: "+1-304-725-7861"
-opening_hours: "08:00-20:00"
+street: Charles Town Road
+housenumber: "15949"
+phone: +1-304-725-7861
+opening_hours: 08:00-20:00
 website: ""

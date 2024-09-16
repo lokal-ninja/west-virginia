@@ -1,11 +1,11 @@
 id: 280937455
-type: way
+type: node
 latitude: 39.62794
 longitude: -79.98547
 postcode: "26501"
 city: Westover
-street: "Fairmont Road"
-housenumber: 902
-phone: "+1 304-296-9811"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/wv/morgantown/902-fairmont-rd"
+street: Fairmont Road
+housenumber: "902"
+phone: +1 304-296-9811
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/wv/morgantown/902-fairmont-rd

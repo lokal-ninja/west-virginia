@@ -1,11 +1,11 @@
 id: 948481948
-type: way
+type: node
 latitude: 38.38706
 longitude: -81.82474
 postcode: "25177"
 city: St. Albans
-street: "MacCorkle Avenue"
-housenumber: 1457
-phone: "+1-304-721-8899"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
-website: "https://www.facebook.com/stalbansnailsspa/"
+street: MacCorkle Avenue
+housenumber: "1457"
+phone: +1-304-721-8899
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
+website: https://www.facebook.com/stalbansnailsspa/

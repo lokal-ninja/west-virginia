@@ -1,11 +1,11 @@
 id: 772254016
-type: way
+type: node
 latitude: 39.41216
 longitude: -81.44867
 postcode: "45750"
 city: Marietta
-street: "Greene Street"
-housenumber: 300
+street: Greene Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-300+greene+st-marietta-oh-45750/id=11293"
+website: https://www.walgreens.com/locator/walgreens-300+greene+st-marietta-oh-45750/id=11293

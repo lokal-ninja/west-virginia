@@ -1,11 +1,11 @@
 id: 343468271
-type: way
+type: node
 latitude: 38.05854
 longitude: -81.82349
 postcode: "25130"
 city: Madison
-street: "Lincoln Avenue"
-housenumber: 501
+street: Lincoln Avenue
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

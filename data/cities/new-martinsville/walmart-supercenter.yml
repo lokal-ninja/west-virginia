@@ -1,11 +1,11 @@
 id: 464595053
-type: way
+type: node
 latitude: 39.65618
 longitude: -80.86026
 postcode: "26155"
 city: New Martinsville
-street: "South Bridge Street"
-housenumber: 1142
-phone: "+1 304-455-6522"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2684/new-martinsville-wv/whats-new"
+street: South Bridge Street
+housenumber: "1142"
+phone: +1 304-455-6522
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2684/new-martinsville-wv/whats-new

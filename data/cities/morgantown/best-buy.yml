@@ -1,11 +1,11 @@
 id: 129725362
-type: way
+type: node
 latitude: 39.65118
 longitude: -80.00494
 postcode: "26501"
 city: Morgantown
-street: "University Town Centre Drive"
-housenumber: 3294
-phone: "+1 304-598-9052"
+street: University Town Centre Drive
+housenumber: "3294"
+phone: +1 304-598-9052
 opening_hours: ""
-website: "https://stores.bestbuy.com/wv/morgantown/3294-university-town-centre-dr-832.html"
+website: https://stores.bestbuy.com/wv/morgantown/3294-university-town-centre-dr-832.html

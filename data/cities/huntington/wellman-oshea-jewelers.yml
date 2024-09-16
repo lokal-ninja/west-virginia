@@ -4,8 +4,8 @@ latitude: 38.42074
 longitude: -82.44194
 postcode: "25701"
 city: Huntington
-street: "10th Street"
-housenumber: 416
+street: 10th Street
+housenumber: "416"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
 website: ""

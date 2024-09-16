@@ -1,11 +1,11 @@
 id: 1049779533
-type: way
+type: node
 latitude: 39.30002
 longitude: -77.86339
 postcode: "25438"
 city: Ranson
-street: "North Mildred Street"
-housenumber: 314
-phone: "+1 304-724-4114"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://advancedautoauthority.com/"
+street: North Mildred Street
+housenumber: "314"
+phone: +1 304-724-4114
+opening_hours: Mo-Fr 08:00-17:00
+website: https://advancedautoauthority.com/

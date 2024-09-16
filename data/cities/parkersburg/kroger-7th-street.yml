@@ -1,11 +1,11 @@
 id: 215927810
-type: way
+type: node
 latitude: 39.27021
 longitude: -81.52154
 postcode: "26101"
 city: Parkersburg
-street: "7th Street"
-housenumber: 2007
-phone: "+1 304-424-6369"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/wv/parkersburg/7th-street/029/00752"
+street: 7th Street
+housenumber: "2007"
+phone: +1 304-424-6369
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/wv/parkersburg/7th-street/029/00752

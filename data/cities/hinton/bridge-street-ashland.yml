@@ -1,11 +1,11 @@
 id: 1148406138
-type: way
+type: node
 latitude: 37.66725
 longitude: -80.8933
 postcode: "25951"
 city: Hinton
-street: "Bridge Street"
-housenumber: 125
-phone: "+1 304-466-4500"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Bridge Street
+housenumber: "125"
+phone: +1 304-466-4500
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

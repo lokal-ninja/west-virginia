@@ -1,11 +1,11 @@
 id: 825984020
-type: way
+type: node
 latitude: 38.23162
 longitude: -80.09125
 postcode: "24954"
 city: Marlinton
-street: "Seneca Trail"
-housenumber: 524
+street: Seneca Trail
+housenumber: "524"
 phone: "+13047996121"
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-22:00"
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-22:00
 website: ""

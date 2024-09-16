@@ -1,11 +1,11 @@
 id: 398073453
-type: way
+type: node
 latitude: 39.26942
 longitude: -80.35395
 postcode: ""
 city: Clarksburg
-street: "South Chestnut Street"
-housenumber: 1010
+street: South Chestnut Street
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

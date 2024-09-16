@@ -1,11 +1,11 @@
 id: 528923942
-type: way
+type: node
 latitude: 39.33375
 longitude: -80.23917
 postcode: "26330"
 city: Bridgeport
-street: "Oakmont Lane"
-housenumber: 20
-phone: "+1 304-842-9544"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/516"
+street: Oakmont Lane
+housenumber: "20"
+phone: +1 304-842-9544
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/516

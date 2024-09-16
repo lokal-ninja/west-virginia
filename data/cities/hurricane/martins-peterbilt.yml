@@ -1,11 +1,11 @@
 id: 1115139864
-type: way
+type: node
 latitude: 38.44273
 longitude: -82.01622
 postcode: "25526"
 city: Hurricane
-street: "Saturn Way"
-housenumber: 300
-phone: "+1-304-562-7999"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.martinspeterbilt.com/locations/hurricane-wv/"
+street: Saturn Way
+housenumber: "300"
+phone: +1-304-562-7999
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.martinspeterbilt.com/locations/hurricane-wv/

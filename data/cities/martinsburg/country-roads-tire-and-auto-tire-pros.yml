@@ -1,11 +1,11 @@
 id: 547792279
-type: way
+type: node
 latitude: 39.48229
 longitude: -77.94967
 postcode: "25404"
 city: Martinsburg
-street: "Williamsport Pike"
-housenumber: 629
+street: Williamsport Pike
+housenumber: "629"
 phone: ""
 opening_hours: ""
 website: ""

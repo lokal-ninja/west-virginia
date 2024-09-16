@@ -1,11 +1,11 @@
 id: 1163117889
-type: way
+type: node
 latitude: 39.44508
 longitude: -77.99116
 postcode: "25405"
 city: Martinsburg
-street: "Enterprise Circle"
-housenumber: 500
-phone: "+1 304-260-9554"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Enterprise Circle
+housenumber: "500"
+phone: +1 304-260-9554
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

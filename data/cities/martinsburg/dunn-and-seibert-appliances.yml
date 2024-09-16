@@ -1,11 +1,11 @@
 id: 545765945
-type: way
+type: node
 latitude: 39.45706
 longitude: -77.9687
 postcode: "25401"
 city: Martinsburg
-street: "West King Street"
-housenumber: 419
+street: West King Street
+housenumber: "419"
 phone: ""
 opening_hours: ""
 website: ""

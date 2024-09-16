@@ -1,11 +1,11 @@
 id: 632698508
-type: way
+type: node
 latitude: 37.66034
 longitude: -80.89098
 postcode: "25951"
 city: Hinton
-street: "Stokes Drive"
-housenumber: 308
-phone: "+1 304-466-4888"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/wv/hinton/hinton/029/00743"
+street: Stokes Drive
+housenumber: "308"
+phone: +1 304-466-4888
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/wv/hinton/hinton/029/00743

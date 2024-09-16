@@ -1,11 +1,11 @@
 id: 729744337
-type: way
+type: node
 latitude: 39.39892
 longitude: -78.00245
 postcode: "25405"
 city: Martinsburg
-street: "Winchester Avenue"
-housenumber: 4430
-phone: "+1 304-264-1556"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/546"
+street: Winchester Avenue
+housenumber: "4430"
+phone: +1 304-264-1556
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/546

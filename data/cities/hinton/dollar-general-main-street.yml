@@ -1,11 +1,11 @@
 id: 890500426
-type: way
+type: node
 latitude: 37.66512
 longitude: -80.89356
 postcode: "25951"
 city: Hinton
-street: "Main Street"
-housenumber: 237
+street: Main Street
+housenumber: "237"
 phone: "+13043093915"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wv/hinton/909"
+website: https://www.dollargeneral.com/store-directory/wv/hinton/909

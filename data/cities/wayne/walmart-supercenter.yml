@@ -1,11 +1,11 @@
 id: 464980363
-type: way
+type: node
 latitude: 38.25617
 longitude: -82.4301
 postcode: "25570"
 city: Wayne
-street: "McGinnis Drive"
-housenumber: 100
-phone: "+1 304-272-3633"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2792/wayne-wv/whats-new"
+street: McGinnis Drive
+housenumber: "100"
+phone: +1 304-272-3633
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2792/wayne-wv/whats-new

@@ -1,11 +1,11 @@
 id: 376612830
-type: way
+type: node
 latitude: 39.34222
 longitude: -78.75814
 postcode: "26757"
 city: Romney
-street: "West Main Street"
-housenumber: 150
+street: West Main Street
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

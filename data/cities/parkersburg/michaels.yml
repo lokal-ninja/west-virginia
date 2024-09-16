@@ -1,11 +1,11 @@
 id: 396805753
-type: way
+type: node
 latitude: 39.28709
 longitude: -81.54969
-postcode: "26101-1929"
+postcode: 26101-1929
 city: Parkersburg
-street: "Park Shopping Center"
-housenumber: 100
-phone: "+1 304-485-7776"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wv/parkersburg/8334"
+street: Park Shopping Center
+housenumber: "100"
+phone: +1 304-485-7776
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wv/parkersburg/8334

@@ -1,11 +1,11 @@
 id: 929796239
-type: way
+type: node
 latitude: 38.84902
 longitude: -82.13601
 postcode: "25550"
 city: Point Pleasant
-street: "Viand Street"
-housenumber: 1008
-phone: "+1-304-675-4873"
+street: Viand Street
+housenumber: "1008"
+phone: +1-304-675-4873
 opening_hours: ""
-website: "https://www.facebook.com/advancedesignwv/"
+website: https://www.facebook.com/advancedesignwv/

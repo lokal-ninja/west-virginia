@@ -1,11 +1,11 @@
 id: 696269503
-type: way
+type: node
 latitude: 39.35819
 longitude: -78.0387
 postcode: "25428"
 city: Inwood
-street: "Winchester Avenue"
-housenumber: 7899
-phone: "+1 304-229-5554"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/143"
+street: Winchester Avenue
+housenumber: "7899"
+phone: +1 304-229-5554
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/143

@@ -1,11 +1,11 @@
 id: 85702223
-type: way
+type: node
 latitude: 38.30938
 longitude: -80.83818
 postcode: "26651"
 city: Summersville
-street: "Webster Road"
-housenumber: 5200
-phone: "+1 304-872-5300"
-opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-20:00"
-website: "https://www.lowes.com/store/wv-summersville/1040"
+street: Webster Road
+housenumber: "5200"
+phone: +1 304-872-5300
+opening_hours: Mo-Sa 06:00-21:00; Su 09:00-20:00
+website: https://www.lowes.com/store/wv-summersville/1040

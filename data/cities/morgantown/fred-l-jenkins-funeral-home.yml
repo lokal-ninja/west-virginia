@@ -1,11 +1,11 @@
 id: 371941274
-type: way
+type: node
 latitude: 39.62633
 longitude: -79.95971
 postcode: "26501"
 city: Morgantown
-street: "South High Street"
-housenumber: 10
-phone: "+1 304 296 6446"
+street: South High Street
+housenumber: "10"
+phone: +1 304 296 6446
 opening_hours: ""
-website: "https://www.fredjenkinsfuneralhome.com/"
+website: https://www.fredjenkinsfuneralhome.com/

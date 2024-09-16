@@ -1,11 +1,11 @@
 id: 1017564489
-type: way
+type: node
 latitude: 40.06713
 longitude: -80.56639
 postcode: "26059"
 city: Triadelphia
-street: "Dallas Pike"
-housenumber: 1961
-phone: "+1-304-400-6154"
-opening_hours: "Mo-Su 05:00-23:00"
+street: Dallas Pike
+housenumber: "1961"
+phone: +1-304-400-6154
+opening_hours: Mo-Su 05:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 821322227
-type: way
+type: node
 latitude: 39.01771
 longitude: -80.42132
 postcode: "26452"
 city: Weston
-street: "Market Place Mall"
-housenumber: 320
-phone: "+1-304-269-3247"
+street: Market Place Mall
+housenumber: "320"
+phone: +1-304-269-3247
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 665695744
-type: way
+type: node
 latitude: 38.40686
 longitude: -82.40452
 postcode: "25705"
 city: Huntington
-street: "Linden Circle"
-housenumber: 102
+street: Linden Circle
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

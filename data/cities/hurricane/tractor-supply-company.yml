@@ -1,11 +1,11 @@
 id: 1003810026
-type: way
+type: node
 latitude: 38.4474
 longitude: -81.95945
 postcode: "25526"
 city: Hurricane
-street: "Teays Valley Road"
-housenumber: 3790
-phone: "+1 304-760-0901"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Hurricane-WV-25526_611"
+street: Teays Valley Road
+housenumber: "3790"
+phone: +1 304-760-0901
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Hurricane-WV-25526_611

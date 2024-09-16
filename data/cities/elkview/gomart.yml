@@ -1,11 +1,11 @@
 id: 377805107
-type: way
+type: node
 latitude: 38.4549
 longitude: -81.49444
 postcode: "25071"
 city: Elkview
-street: "Frame Road"
-housenumber: 125
+street: Frame Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

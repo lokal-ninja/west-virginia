@@ -1,11 +1,11 @@
 id: 919714082
-type: way
+type: node
 latitude: 39.29267
 longitude: -81.5239
 postcode: "26104"
 city: Parkersburg
-street: "Emerson Avenue"
-housenumber: 4418
+street: Emerson Avenue
+housenumber: "4418"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/parkersburg-wv-pharmacies/4418-emerson-avenue-parkersburg-wv-26104/storeid=6281"
+website: https://www.cvs.com/store-locator/parkersburg-wv-pharmacies/4418-emerson-avenue-parkersburg-wv-26104/storeid=6281

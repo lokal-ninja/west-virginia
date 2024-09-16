@@ -1,11 +1,11 @@
 id: 1110934213
-type: way
+type: node
 latitude: 39.48024
 longitude: -79.03976
 postcode: "21562"
 city: Westernport
-street: "Church Street"
-housenumber: 190
+street: Church Street
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

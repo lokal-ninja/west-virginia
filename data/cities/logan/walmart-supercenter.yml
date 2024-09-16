@@ -1,11 +1,11 @@
 id: 468022106
-type: way
+type: node
 latitude: 37.85924
 longitude: -82.04468
 postcode: "25601"
 city: Logan
-street: "Norman Morgan Boulevard"
-housenumber: 77
-phone: "+1 304-752-7391"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2610/logan-wv/whats-new"
+street: Norman Morgan Boulevard
+housenumber: "77"
+phone: +1 304-752-7391
+opening_hours: 24/7
+website: https://www.walmart.com/store/2610/logan-wv/whats-new

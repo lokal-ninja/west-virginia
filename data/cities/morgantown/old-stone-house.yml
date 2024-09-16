@@ -1,11 +1,11 @@
 id: 620995123
-type: way
+type: node
 latitude: 39.63049
 longitude: -79.95665
 postcode: "26505"
 city: Morgantown
-street: "Chestnut Street"
-housenumber: 313
+street: Chestnut Street
+housenumber: "313"
 phone: ""
 opening_hours: ""
-website: "https://oldstonehousewv.org/"
+website: https://oldstonehousewv.org/

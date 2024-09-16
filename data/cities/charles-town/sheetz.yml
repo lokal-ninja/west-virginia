@@ -1,11 +1,11 @@
 id: 180167304
-type: way
+type: node
 latitude: 39.30281
 longitude: -77.81546
 postcode: "25414"
 city: Charles Town
-street: "Marlow Road"
-housenumber: 1130
-phone: "+1 304-724-8710"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/438"
+street: Marlow Road
+housenumber: "1130"
+phone: +1 304-724-8710
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/438

@@ -1,11 +1,11 @@
 id: 546171838
-type: way
+type: node
 latitude: 39.45856
 longitude: -77.96364
 postcode: "25401"
 city: Martinsburg
-street: "North Queen Street"
-housenumber: 148
+street: North Queen Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 786216649
-type: way
+type: node
 latitude: 38.39811
 longitude: -82.56567
-postcode: "25530-1514"
+postcode: 25530-1514
 city: Kenova
-street: "Oak Street"
-housenumber: 625
-phone: "+1 304-453-1361"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
+street: Oak Street
+housenumber: "625"
+phone: +1 304-453-1361
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
 website: ""

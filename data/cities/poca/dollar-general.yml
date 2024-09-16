@@ -1,11 +1,11 @@
 id: 720202753
-type: way
+type: node
 latitude: 38.47315
 longitude: -81.81489
 postcode: ""
 city: Poca
-street: "Main Street"
-housenumber: 146
-phone: "+1-304-755-1505"
+street: Main Street
+housenumber: "146"
+phone: +1-304-755-1505
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wv/poca/4830"
+website: https://www.dollargeneral.com/store-directory/wv/poca/4830

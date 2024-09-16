@@ -1,11 +1,11 @@
 id: 396807408
-type: way
+type: node
 latitude: 39.21817
 longitude: -81.54929
 postcode: "26101"
 city: Parkersburg
-street: "Walton Drive"
-housenumber: 2
-phone: "+1 304-489-4370"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wv-parkersburg/2246"
+street: Walton Drive
+housenumber: "2"
+phone: +1 304-489-4370
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wv-parkersburg/2246

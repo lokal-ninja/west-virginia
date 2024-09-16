@@ -1,11 +1,11 @@
 id: 890500405
-type: way
+type: node
 latitude: 37.67436
 longitude: -80.88985
 postcode: "25951"
 city: Hinton
-street: "Temple Street"
-housenumber: 305
-phone: "+1-304-672-0719"
+street: Temple Street
+housenumber: "305"
+phone: +1-304-672-0719
 opening_hours: ""
 website: ""

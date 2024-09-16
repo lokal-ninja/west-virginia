@@ -1,11 +1,11 @@
 id: 920024387
-type: way
+type: node
 latitude: 38.95181
 longitude: -81.76389
 postcode: "26164"
 city: Ravenswood
-street: "Washington Street"
-housenumber: 406
+street: Washington Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-406+washington+st-ravenswood-wv-26164/id=17280"
+website: https://www.walgreens.com/locator/walgreens-406+washington+st-ravenswood-wv-26164/id=17280

@@ -1,11 +1,11 @@
 id: 417615864
-type: way
+type: node
 latitude: 39.34316
 longitude: -78.759
 postcode: "26757"
 city: Romney
-street: "West Main Street"
-housenumber: 209
-phone: "+1 304-822-4329"
+street: West Main Street
+housenumber: "209"
+phone: +1 304-822-4329
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/wv/romney/209-main-st-16924"
+website: https://www.7-eleven.com/locations/wv/romney/209-main-st-16924

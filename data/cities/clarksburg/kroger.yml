@@ -1,11 +1,11 @@
 id: 854090241
-type: way
+type: node
 latitude: 39.27854
 longitude: -80.27932
 postcode: "26301"
 city: Clarksburg
-street: "Emily Drive"
-housenumber: 102
-phone: "+1 304-623-1482"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/wv/clarksburg/kroger/029/00774"
+street: Emily Drive
+housenumber: "102"
+phone: +1 304-623-1482
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/wv/clarksburg/kroger/029/00774

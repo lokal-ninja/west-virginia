@@ -1,11 +1,11 @@
 id: 119412444
-type: way
+type: node
 latitude: 39.65054
 longitude: -79.89343
 postcode: "26508"
 city: Morgantown
-street: "Venture Drive"
-housenumber: 901
-phone: "+1 304-296-4658"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wv-morgantown/0567"
+street: Venture Drive
+housenumber: "901"
+phone: +1 304-296-4658
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wv-morgantown/0567

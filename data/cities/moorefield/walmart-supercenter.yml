@@ -1,11 +1,11 @@
 id: 302523230
-type: way
+type: node
 latitude: 39.0854
 longitude: -78.95892
 postcode: "26836"
 city: Moorefield
-street: "Harness Road"
-housenumber: 11
-phone: "+1 304-538-3490"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/2696/moorefield-wv/whats-new"
+street: Harness Road
+housenumber: "11"
+phone: +1 304-538-3490
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/2696/moorefield-wv/whats-new

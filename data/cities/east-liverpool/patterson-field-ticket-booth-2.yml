@@ -1,11 +1,11 @@
 id: 472251273
-type: way
+type: node
 latitude: 40.62337
 longitude: -80.58976
 postcode: "43920"
 city: East Liverpool
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Event Times"
+opening_hours: '"Event Times"'
 website: ""

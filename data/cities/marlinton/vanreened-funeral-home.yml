@@ -1,11 +1,11 @@
 id: 979312888
-type: way
+type: node
 latitude: 38.22257
 longitude: -80.09488
 postcode: "24954"
 city: Marlinton
-street: "9th Street"
-housenumber: 207
+street: 9th Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

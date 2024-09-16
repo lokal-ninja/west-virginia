@@ -1,11 +1,11 @@
 id: 712675773
-type: way
+type: node
 latitude: 38.22184
 longitude: -80.0932
 postcode: "24954"
 city: Marlinton
-street: "8th Street"
-housenumber: 400
+street: 8th Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

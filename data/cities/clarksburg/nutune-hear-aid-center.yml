@@ -1,11 +1,11 @@
 id: 373623775
-type: way
+type: node
 latitude: 39.28245
 longitude: -80.3489
 postcode: ""
 city: Clarksburg
-street: "West Pike Street"
-housenumber: 756
+street: West Pike Street
+housenumber: "756"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 890500427
-type: way
+type: node
 latitude: 37.66163
 longitude: -80.89293
 postcode: "25951"
 city: Hinton
-street: "Pleasant Street"
-housenumber: 202
+street: Pleasant Street
+housenumber: "202"
 phone: "+13046602001"
 opening_hours: ""
 website: ""

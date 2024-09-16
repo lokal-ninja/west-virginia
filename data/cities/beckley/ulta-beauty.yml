@@ -1,11 +1,11 @@
 id: 343974600
-type: way
+type: node
 latitude: 37.80149
 longitude: -81.17686
 postcode: "25801"
 city: Beckley
-street: "North Eisenhower Drive"
-housenumber: 1058
-phone: "+1 304-253-5345"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/beckley-wv-749"
+street: North Eisenhower Drive
+housenumber: "1058"
+phone: +1 304-253-5345
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/beckley-wv-749

@@ -1,11 +1,11 @@
 id: 970993434
-type: way
+type: node
 latitude: 38.65822
 longitude: -80.7498
 postcode: "26624"
 city: Gassaway
-street: "State Street"
-housenumber: 2908
-phone: "+1 304-364-2332"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/wv/gassaway/gassaway/029/00739"
+street: State Street
+housenumber: "2908"
+phone: +1 304-364-2332
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/wv/gassaway/gassaway/029/00739

@@ -1,11 +1,11 @@
 id: 400525258
-type: way
+type: node
 latitude: 39.15068
 longitude: -79.4978
 postcode: "26292"
 city: Thomas
-street: "East Avenue"
-housenumber: 278
-phone: "+1 304 614 4181"
-opening_hours: "Fr,Sa 11:00-19:00; Su 11:00-17:00"
+street: East Avenue
+housenumber: "278"
+phone: +1 304 614 4181
+opening_hours: Fr,Sa 11:00-19:00; Su 11:00-17:00
 website: ""

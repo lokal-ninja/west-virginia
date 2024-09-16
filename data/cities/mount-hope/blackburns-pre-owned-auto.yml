@@ -1,11 +1,11 @@
 id: 398070083
-type: way
+type: node
 latitude: 37.87407
 longitude: -81.189
 postcode: "25880"
 city: Mount Hope
-street: "Williams Industrial Drive"
-housenumber: 125
+street: Williams Industrial Drive
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

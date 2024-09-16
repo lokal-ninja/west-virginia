@@ -4,8 +4,8 @@ latitude: 38.3164
 longitude: -81.57422
 postcode: "25304"
 city: Charleston
-street: "53rd Street Southeast"
-housenumber: 409
-phone: "+1-304-925-8348"
+street: 53rd Street Southeast
+housenumber: "409"
+phone: +1-304-925-8348
 opening_hours: ""
-website: "https://www.wvcbc.com/"
+website: https://www.wvcbc.com/

@@ -1,11 +1,11 @@
 id: 812590127
-type: way
+type: node
 latitude: 37.75552
 longitude: -81.21701
 postcode: "25873"
 city: Beckley
-street: "Robert C Byrd Drive"
-housenumber: 1967
+street: Robert C Byrd Drive
+housenumber: "1967"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wv/macarthur/autoparts-4794.html"
+website: https://locations.oreillyauto.com/wv/macarthur/autoparts-4794.html

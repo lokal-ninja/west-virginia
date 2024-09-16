@@ -1,11 +1,11 @@
 id: 1231431256
-type: way
+type: node
 latitude: 37.56952
 longitude: -81.37601
 postcode: "25882"
 city: Mullens
-street: "Black Eagle Road"
-housenumber: 269
+street: Black Eagle Road
+housenumber: "269"
 phone: ""
 opening_hours: ""
 website: ""

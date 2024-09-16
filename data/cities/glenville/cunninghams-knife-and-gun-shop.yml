@@ -1,11 +1,11 @@
 id: 844112109
-type: way
+type: node
 latitude: 38.93486
 longitude: -80.84916
 postcode: "26351"
 city: Glenville
-street: "Sheridan Street"
-housenumber: 613
+street: Sheridan Street
+housenumber: "613"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1110934221
-type: way
+type: node
 latitude: 39.48543
 longitude: -79.04536
 postcode: "21562"
 city: Westernport
-street: "Main Street"
-housenumber: 67
+street: Main Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

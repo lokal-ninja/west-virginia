@@ -1,11 +1,11 @@
 id: 1119057617
-type: way
+type: node
 latitude: 38.18117
 longitude: -81.32406
 postcode: "25136"
 city: Montgomery
-street: "3rd Avenue"
-housenumber: 420
-phone: "+1-304-442-2160"
+street: 3rd Avenue
+housenumber: "420"
+phone: +1-304-442-2160
 opening_hours: ""
 website: ""

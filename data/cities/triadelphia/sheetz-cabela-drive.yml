@@ -1,11 +1,11 @@
 id: 932242666
-type: way
+type: node
 latitude: 40.06137
 longitude: -80.59691
 postcode: "26059"
 city: Triadelphia
-street: "Cabela Drive"
-housenumber: 6
-phone: "+1 304-547-0463"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/429"
+street: Cabela Drive
+housenumber: "6"
+phone: +1 304-547-0463
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/429

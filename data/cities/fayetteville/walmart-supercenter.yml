@@ -1,11 +1,11 @@
 id: 288731981
-type: way
+type: node
 latitude: 38.03363
 longitude: -81.12021
 postcode: "25840"
 city: Fayetteville
-street: "Town Center Road"
-housenumber: 204
-phone: "+1 304-574-1086"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1360/fayetteville-wv/whats-new"
+street: Town Center Road
+housenumber: "204"
+phone: +1 304-574-1086
+opening_hours: 24/7
+website: https://www.walmart.com/store/1360/fayetteville-wv/whats-new

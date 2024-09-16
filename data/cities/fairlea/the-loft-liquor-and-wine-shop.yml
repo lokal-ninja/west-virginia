@@ -1,11 +1,11 @@
 id: 1169234488
-type: way
+type: node
 latitude: 37.78389
 longitude: -80.45493
 postcode: "24901"
 city: Fairlea
-street: "Seneca Trail"
-housenumber: 124
-phone: "+1-304-647-5638"
+street: Seneca Trail
+housenumber: "124"
+phone: +1-304-647-5638
 opening_hours: ""
-website: "http://spiritsandwinelewisburg.com"
+website: http://spiritsandwinelewisburg.com

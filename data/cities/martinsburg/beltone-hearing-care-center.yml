@@ -1,11 +1,11 @@
 id: 545711509
-type: way
+type: node
 latitude: 39.4553
 longitude: -77.96979
 postcode: "25401"
 city: Martinsburg
-street: "South Raleigh Street"
-housenumber: 319
+street: South Raleigh Street
+housenumber: "319"
 phone: ""
 opening_hours: ""
 website: ""

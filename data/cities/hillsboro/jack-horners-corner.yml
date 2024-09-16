@@ -1,11 +1,11 @@
 id: 1298683001
-type: way
+type: node
 latitude: 38.12887
 longitude: -80.17673
 postcode: "24946"
 city: Hillsboro
-street: "WATOGA PARK RD"
-housenumber: 181
-phone: "+1-304-653-4515"
-opening_hours: "Mo-Su 09:00-20:00"
+street: WATOGA PARK RD
+housenumber: "181"
+phone: +1-304-653-4515
+opening_hours: Mo-Su 09:00-20:00
 website: ""

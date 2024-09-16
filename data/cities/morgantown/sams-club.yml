@@ -1,11 +1,11 @@
 id: 120255594
-type: way
+type: node
 latitude: 39.64815
 longitude: -80.00038
 postcode: "26501"
 city: Morgantown
-street: "University Town Centre Drive"
-housenumber: 6001
-phone: "+1 304-598-3042"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/morgantown-wv-sams-club/4936"
+street: University Town Centre Drive
+housenumber: "6001"
+phone: +1 304-598-3042
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/morgantown-wv-sams-club/4936

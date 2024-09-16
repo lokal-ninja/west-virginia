@@ -1,11 +1,11 @@
 id: 197880225
-type: way
+type: node
 latitude: 39.27892
 longitude: -80.30713
 postcode: "26302"
 city: Clarksburg
-street: "East Pike Street"
-housenumber: 1469
-phone: "+1-304-624-6394"
+street: East Pike Street
+housenumber: "1469"
+phone: +1-304-624-6394
 opening_hours: ""
-website: "https://www.napaonline.com/en/wv/clarksburg/store/24716"
+website: https://www.napaonline.com/en/wv/clarksburg/store/24716

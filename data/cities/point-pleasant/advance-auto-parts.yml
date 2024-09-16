@@ -1,11 +1,11 @@
 id: 905847347
-type: way
+type: node
 latitude: 38.84724
 longitude: -82.13624
 postcode: "25550"
 city: Point Pleasant
-street: "Viand Street"
-housenumber: 814
+street: Viand Street
+housenumber: "814"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wv/point-pleasant/814-viand-st"
+website: https://stores.advanceautoparts.com/wv/point-pleasant/814-viand-st

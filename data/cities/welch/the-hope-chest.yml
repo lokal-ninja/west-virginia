@@ -4,8 +4,8 @@ latitude: 37.43367
 longitude: -81.58575
 postcode: "24801"
 city: Welch
-street: "McDowell Street"
-housenumber: 145
-phone: "+1 304 436 4001"
+street: McDowell Street
+housenumber: "145"
+phone: +1 304 436 4001
 opening_hours: ""
-website: "https://www.hohm.org/"
+website: https://www.hohm.org/

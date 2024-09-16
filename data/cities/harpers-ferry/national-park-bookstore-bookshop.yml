@@ -1,11 +1,11 @@
 id: 136439835
-type: way
+type: node
 latitude: 39.32256
 longitude: -77.73107
 postcode: ""
 city: Harpers Ferry
-street: "Shenandoah Street"
-housenumber: 723
+street: Shenandoah Street
+housenumber: "723"
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

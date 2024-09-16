@@ -1,11 +1,11 @@
 id: 1231365585
-type: way
+type: node
 latitude: 38.58793
 longitude: -81.99556
 postcode: "25033"
 city: Buffalo
-street: "Buffalo Road"
-housenumber: 4000
+street: Buffalo Road
+housenumber: "4000"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wv/buffalo/10429"
+website: https://www.dollargeneral.com/store-directory/wv/buffalo/10429

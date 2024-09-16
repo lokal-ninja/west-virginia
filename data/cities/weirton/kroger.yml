@@ -4,8 +4,8 @@ latitude: 40.39674
 longitude: -80.55398
 postcode: "26062"
 city: Weirton
-street: "Saint Thomas Drive"
-housenumber: 100
-phone: "+1 304-723-5165"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/wv/weirton/weirton/016/00803"
+street: Saint Thomas Drive
+housenumber: "100"
+phone: +1 304-723-5165
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/wv/weirton/weirton/016/00803

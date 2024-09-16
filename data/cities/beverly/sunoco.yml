@@ -1,11 +1,11 @@
 id: 765260996
-type: way
+type: node
 latitude: 38.83639
 longitude: -79.87586
 postcode: "26253"
 city: Beverly
-street: "Seneca Trail"
-housenumber: 92
+street: Seneca Trail
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.77438
 longitude: -81.19386
 postcode: "25801"
 city: Beckley
-street: "2nd Street"
-housenumber: 509
-phone: "+1-304-929-2400"
+street: 2nd Street
+housenumber: "509"
+phone: +1-304-929-2400
 opening_hours: ""
-website: "https://www.secondstreetservicecenter.com/"
+website: https://www.secondstreetservicecenter.com/

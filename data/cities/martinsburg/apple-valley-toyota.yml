@@ -1,11 +1,11 @@
 id: 286684719
-type: way
+type: node
 latitude: 39.45687
 longitude: -77.98667
 postcode: "25401"
 city: Martinsburg
-street: "Foxcroft Avenue"
-housenumber: 650
+street: Foxcroft Avenue
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

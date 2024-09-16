@@ -1,11 +1,11 @@
 id: 786961496
-type: way
+type: node
 latitude: 38.40179
 longitude: -82.57775
 postcode: "25507"
 city: Ceredo
-street: "Oak Street"
-housenumber: 1405
+street: Oak Street
+housenumber: "1405"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kenova-wv-pharmacies/1405-oak-st-kenova-wv-25530/storeid=6350"
+website: https://www.cvs.com/store-locator/kenova-wv-pharmacies/1405-oak-st-kenova-wv-25530/storeid=6350

@@ -1,11 +1,11 @@
 id: 821322240
-type: way
+type: node
 latitude: 39.02039
 longitude: -80.4198
 postcode: "26452"
 city: Weston
-street: "BFS Boulevard"
-housenumber: 57
+street: BFS Boulevard
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

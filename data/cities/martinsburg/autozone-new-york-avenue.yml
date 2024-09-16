@@ -1,11 +1,11 @@
 id: 294601165
-type: way
+type: node
 latitude: 39.44159
 longitude: -77.97763
 postcode: "25401"
 city: Martinsburg
-street: "New York Avenue"
-housenumber: 1510
+street: New York Avenue
+housenumber: "1510"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wv/martinsburg/1510-new-york-ave.html"
+website: https://www.autozone.com/locations/wv/martinsburg/1510-new-york-ave.html

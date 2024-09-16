@@ -1,11 +1,11 @@
 id: 639330563
-type: way
+type: node
 latitude: 39.26669
 longitude: -80.28461
 postcode: "26301"
 city: Clarksburg
-street: "Emily Drive"
-housenumber: 494
-phone: "+1 304-624-7071"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/WV-Clarksburg/1641"
+street: Emily Drive
+housenumber: "494"
+phone: +1 304-624-7071
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/WV-Clarksburg/1641

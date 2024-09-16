@@ -1,11 +1,11 @@
 id: 1059552916
-type: way
+type: node
 latitude: 38.80199
 longitude: -81.34812
 postcode: "25276"
 city: Spencer
-street: "Street"
-housenumber: 109
-phone: "304-927-4703"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Street
+housenumber: "109"
+phone: 304-927-4703
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

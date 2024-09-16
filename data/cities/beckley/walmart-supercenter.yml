@@ -1,11 +1,11 @@
 id: 343974456
-type: way
+type: node
 latitude: 37.80485
 longitude: -81.177
 postcode: "25801"
 city: Beckley
-street: "North Eisenhower Drive"
-housenumber: 1330
-phone: "+1 304-255-7800"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1351/beckley-wv/whats-new"
+street: North Eisenhower Drive
+housenumber: "1330"
+phone: +1 304-255-7800
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1351/beckley-wv/whats-new

@@ -1,11 +1,11 @@
 id: 925738610
-type: way
+type: node
 latitude: 40.40081
 longitude: -80.54942
 postcode: "26062"
 city: Weirton
-street: "Three Springs Drive"
-housenumber: 239
-phone: "+1 304-723-0020"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/234"
+street: Three Springs Drive
+housenumber: "239"
+phone: +1 304-723-0020
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/234

@@ -1,11 +1,11 @@
 id: 1267983432
-type: way
+type: node
 latitude: 38.07486
 longitude: -81.82143
 postcode: "25130"
 city: Madison
-street: "Smoot Avenue"
-housenumber: 3265
-phone: "+1 304-369-1935"
-opening_hours: "Su-Sa 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/wv/madison/danville/029/00817"
+street: Smoot Avenue
+housenumber: "3265"
+phone: +1 304-369-1935
+opening_hours: Su-Sa 06:00-24:00
+website: https://www.kroger.com/stores/grocery/wv/madison/danville/029/00817

@@ -1,11 +1,11 @@
 id: 691962527
-type: way
+type: node
 latitude: 38.41055
 longitude: -82.47966
 postcode: "25704"
 city: Huntington
-street: "West 14th Street"
-housenumber: 610
+street: West 14th Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

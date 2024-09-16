@@ -1,11 +1,11 @@
 id: 584928391
-type: way
+type: node
 latitude: 38.41474
 longitude: -82.44332
 postcode: "25701"
 city: Huntington
-street: "8th Avenue"
-housenumber: 817
+street: 8th Avenue
+housenumber: "817"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.mmphuntington.com"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.mmphuntington.com

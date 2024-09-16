@@ -1,11 +1,11 @@
 id: 785420024
-type: way
+type: node
 latitude: 39.26511
 longitude: -80.32514
 postcode: "26301"
 city: Clarksburg
-street: "Cimarron Road"
-housenumber: 94
+street: Cimarron Road
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

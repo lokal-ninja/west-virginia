@@ -1,11 +1,11 @@
 id: 586000757
-type: way
+type: node
 latitude: 39.45098
 longitude: -77.98667
 postcode: "25401"
 city: Martinsburg
-street: "Foxcroft Avenue"
-housenumber: 800
-phone: "+1 304-263-6061"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1703/martinsburg-wv/whats-new"
+street: Foxcroft Avenue
+housenumber: "800"
+phone: +1 304-263-6061
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1703/martinsburg-wv/whats-new

@@ -1,11 +1,11 @@
 id: 221125984
-type: way
+type: node
 latitude: 38.31847
 longitude: -81.71406
 postcode: "25309"
 city: South Charleston
-street: "Mountaineer Boulevard"
-housenumber: 2700
-phone: "+1 304-746-1720"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2036/south-charleston-wv/whats-new"
+street: Mountaineer Boulevard
+housenumber: "2700"
+phone: +1 304-746-1720
+opening_hours: 24/7
+website: https://www.walmart.com/store/2036/south-charleston-wv/whats-new

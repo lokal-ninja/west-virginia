@@ -1,11 +1,11 @@
 id: 611700528
-type: way
+type: node
 latitude: 39.62763
 longitude: -79.95171
 postcode: "26501"
 city: Morgantown
-street: "Brockway Avenue"
-housenumber: 429
+street: Brockway Avenue
+housenumber: "429"
 phone: ""
 opening_hours: ""
 website: ""

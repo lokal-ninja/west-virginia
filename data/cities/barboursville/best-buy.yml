@@ -1,11 +1,11 @@
 id: 401654338
-type: way
+type: node
 latitude: 38.4191
 longitude: -82.26329
 postcode: "25504"
 city: Barboursville
-street: "Mall Road"
-housenumber: 6
-phone: "+1 304-733-0443"
+street: Mall Road
+housenumber: "6"
+phone: +1 304-733-0443
 opening_hours: ""
-website: "https://stores.bestbuy.com/wv/barboursville/6-mall-rd-573.html"
+website: https://stores.bestbuy.com/wv/barboursville/6-mall-rd-573.html

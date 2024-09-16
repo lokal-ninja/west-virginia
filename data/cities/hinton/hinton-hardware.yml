@@ -1,11 +1,11 @@
 id: 890500434
-type: way
+type: node
 latitude: 37.65077
 longitude: -80.88288
 postcode: "25951"
 city: Hinton
-street: "Maple Street"
-housenumber: 107
+street: Maple Street
+housenumber: "107"
 phone: "+13044662011"
 opening_hours: ""
 website: ""

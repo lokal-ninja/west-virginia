@@ -1,11 +1,11 @@
 id: 546834711
-type: way
+type: node
 latitude: 39.44012
 longitude: -77.97704
 postcode: "25401"
 city: Martinsburg
-street: "Virginia Avenue Ext,"
-housenumber: 22
+street: Virginia Avenue Ext,
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

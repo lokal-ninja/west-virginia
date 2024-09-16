@@ -1,11 +1,11 @@
 id: 552622001
-type: way
+type: node
 latitude: 38.36132
 longitude: -81.73863
 postcode: "25064"
 city: Dunbar
-street: "12th Street"
-housenumber: 434
-phone: "+1 844-461-7015"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wv/dunbar/434-12th-st"
+street: 12th Street
+housenumber: "434"
+phone: +1 844-461-7015
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wv/dunbar/434-12th-st

@@ -1,11 +1,11 @@
 id: 790213560
-type: way
+type: node
 latitude: 37.72587
 longitude: -81.24547
 postcode: "25921"
 city: Sophia
-street: "Robert C Byrd Drive"
-housenumber: 800
+street: Robert C Byrd Drive
+housenumber: "800"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wv/sophia/764-robert-c-byrd-dr.html"
+website: https://www.autozone.com/locations/wv/sophia/764-robert-c-byrd-dr.html

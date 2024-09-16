@@ -1,11 +1,11 @@
 id: 843376012
-type: way
+type: node
 latitude: 38.93378
 longitude: -80.83807
 postcode: "26351"
 city: Glenville
-street: "South Lewis"
-housenumber: 10
+street: South Lewis
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

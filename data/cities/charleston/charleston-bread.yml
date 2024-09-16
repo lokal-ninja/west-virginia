@@ -1,11 +1,11 @@
 id: 334629927
-type: way
+type: node
 latitude: 38.35295
 longitude: -81.62964
 postcode: "25301"
 city: Charleston
-street: "Capitol Street"
-housenumber: 601
-phone: "+1-(304)-720-3022"
-opening_hours: "Tu-Fr 07:00-18:00; Sa 07:00-15:00"
+street: Capitol Street
+housenumber: "601"
+phone: +1-(304)-720-3022
+opening_hours: Tu-Fr 07:00-18:00; Sa 07:00-15:00
 website: ""

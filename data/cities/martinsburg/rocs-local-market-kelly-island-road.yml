@@ -1,11 +1,11 @@
 id: 672107375
-type: way
+type: node
 latitude: 39.43557
 longitude: -77.96037
 postcode: "25401"
 city: Martinsburg
-street: "Kelly Island Road"
-housenumber: 39
-phone: "+1-304-263-6981"
-opening_hours: "24/7"
+street: Kelly Island Road
+housenumber: "39"
+phone: +1-304-263-6981
+opening_hours: 24/7
 website: ""

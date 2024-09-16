@@ -4,8 +4,8 @@ latitude: 37.97572
 longitude: -82.01735
 postcode: "25508"
 city: Chapmanville
-street: "Main Street"
-housenumber: 767
-phone: "+1 304 855 7112"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/WV/Chapmanville/767-Main-Street"
+street: Main Street
+housenumber: "767"
+phone: +1 304 855 7112
+opening_hours: 24/7
+website: https://www.speedway.com/locations/WV/Chapmanville/767-Main-Street

@@ -1,11 +1,11 @@
 id: 1096300236
-type: way
+type: node
 latitude: 37.78981
 longitude: -81.11644
 postcode: "25813"
 city: Beaver
-street: "Industrial Park Road"
-housenumber: 260
+street: Industrial Park Road
+housenumber: "260"
 phone: "+13048948710"
 opening_hours: ""
-website: "https://www.fairchildmotorcompany.com/"
+website: https://www.fairchildmotorcompany.com/

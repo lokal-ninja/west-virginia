@@ -1,11 +1,11 @@
 id: 818115749
-type: way
+type: node
 latitude: 38.3478
 longitude: -82.45134
-postcode: "25701-9558"
+postcode: 25701-9558
 city: Huntington
-street: "5th Street Road"
-housenumber: 4350
-phone: "+1 304-523-2331"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
+street: 5th Street Road
+housenumber: "4350"
+phone: +1 304-523-2331
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
 website: ""

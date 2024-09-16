@@ -1,11 +1,11 @@
 id: 1002422817
-type: way
+type: node
 latitude: 37.97722
 longitude: -82.01743
 postcode: "25508"
 city: Chapmanville
-street: "Main Street"
-housenumber: 901
+street: Main Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-901+main+st-chapmanville-wv-25508/id=17792"
+website: https://www.walgreens.com/locator/walgreens-901+main+st-chapmanville-wv-25508/id=17792

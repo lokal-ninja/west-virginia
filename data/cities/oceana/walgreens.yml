@@ -1,11 +1,11 @@
 id: 700233571
-type: way
+type: node
 latitude: 37.69228
 longitude: -81.62643
 postcode: "24870"
 city: Oceana
-street: "Cook Parkway"
-housenumber: 894
+street: Cook Parkway
+housenumber: "894"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-894+cook+pkwy-oceana-wv-24870/id=19746"
+website: https://www.walgreens.com/locator/walgreens-894+cook+pkwy-oceana-wv-24870/id=19746

@@ -1,11 +1,11 @@
 id: 898543942
-type: way
+type: node
 latitude: 39.63876
 longitude: -80.01027
 postcode: "26501"
 city: Westover
-street: "Brattice Drive"
-housenumber: 351
+street: Brattice Drive
+housenumber: "351"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3380"
+website: https://www.menards.com/store-details/store.html?store=3380

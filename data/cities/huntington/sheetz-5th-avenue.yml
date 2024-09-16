@@ -1,11 +1,11 @@
 id: 790427203
-type: way
+type: node
 latitude: 38.42337
 longitude: -82.41827
 postcode: "25703"
 city: Huntington
-street: "5th Avenue"
-housenumber: 2251
-phone: "+1 304-525-6755"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/547"
+street: 5th Avenue
+housenumber: "2251"
+phone: +1 304-525-6755
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/547

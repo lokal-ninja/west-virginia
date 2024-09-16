@@ -1,11 +1,11 @@
 id: 472249832
-type: way
+type: node
 latitude: 40.62481
 longitude: -80.58975
 postcode: "43920"
 city: East Liverpool
-street: "West 8th Street"
-housenumber: 
+street: West 8th Street
+housenumber: ""
 phone: ""
-opening_hours: "Event Times"
+opening_hours: '"Event Times"'
 website: ""

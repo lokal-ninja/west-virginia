@@ -1,11 +1,11 @@
 id: 374625405
-type: way
+type: node
 latitude: 39.01922
 longitude: -80.41749
 postcode: "26452"
 city: Weston
-street: "Berlin Road"
-housenumber: 39
-phone: "+1 304-269-4852"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/206"
+street: Berlin Road
+housenumber: "39"
+phone: +1 304-269-4852
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/206

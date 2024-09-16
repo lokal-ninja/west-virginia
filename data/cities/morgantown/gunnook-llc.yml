@@ -1,11 +1,11 @@
 id: 849939698
-type: way
+type: node
 latitude: 39.66873
 longitude: -79.95018
 postcode: "26508"
 city: Morgantown
-street: "Leah Drive"
-housenumber: 532
+street: Leah Drive
+housenumber: "532"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.gunnook.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.gunnook.com/

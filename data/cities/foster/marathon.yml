@@ -1,11 +1,11 @@
 id: 887561495
-type: way
+type: node
 latitude: 38.10492
 longitude: -81.81939
 postcode: "25081"
 city: Foster
-street: "Middlebrook Drive"
-housenumber: 43
+street: Middlebrook Drive
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 789724004
-type: way
+type: node
 latitude: 38.42602
 longitude: -82.40689
 postcode: ""
 city: Huntington
-street: "5th Avenue"
-housenumber: 2630
+street: 5th Avenue
+housenumber: "2630"
 phone: ""
 opening_hours: ""
 website: ""

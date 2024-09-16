@@ -1,11 +1,11 @@
 id: 391140591
-type: way
+type: node
 latitude: 38.82963
 longitude: -81.72035
 postcode: "25271"
 city: Ripley
-street: "Academy Drive"
-housenumber: 200
-phone: "+1 304-372-4482"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1450/ripley-wv/whats-new"
+street: Academy Drive
+housenumber: "200"
+phone: +1 304-372-4482
+opening_hours: 24/7
+website: https://www.walmart.com/store/1450/ripley-wv/whats-new

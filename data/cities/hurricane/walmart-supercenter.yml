@@ -1,11 +1,11 @@
 id: 349903450
-type: way
+type: node
 latitude: 38.44137
 longitude: -82.02462
 postcode: "25526"
 city: Hurricane
-street: "Progress Way"
-housenumber: 167
-phone: "+1 304-562-0475"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4277/hurricane-wv/whats-new"
+street: Progress Way
+housenumber: "167"
+phone: +1 304-562-0475
+opening_hours: 24/7
+website: https://www.walmart.com/store/4277/hurricane-wv/whats-new

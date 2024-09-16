@@ -1,11 +1,11 @@
 id: 401654361
-type: way
+type: node
 latitude: 38.42222
 longitude: -82.25737
 postcode: "25504"
 city: Barboursville
-street: "Nichols Drive"
-housenumber: 25
-phone: "+1 304-733-0789"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5296/barboursville-wv/whats-new"
+street: Nichols Drive
+housenumber: "25"
+phone: +1 304-733-0789
+opening_hours: 24/7
+website: https://www.walmart.com/store/5296/barboursville-wv/whats-new

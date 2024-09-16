@@ -1,11 +1,11 @@
 id: 1148406145
-type: way
+type: node
 latitude: 37.66104
 longitude: -80.89274
 postcode: "25951"
 city: Hinton
-street: "Jackson Street"
-housenumber: 218
+street: Jackson Street
+housenumber: "218"
 phone: ""
-opening_hours: "+1 304-466-1074"
+opening_hours: +1 304-466-1074
 website: ""

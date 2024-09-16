@@ -1,11 +1,11 @@
 id: 413729985
-type: way
+type: node
 latitude: 38.66496
 longitude: -80.71217
 postcode: "26601"
 city: Sutton
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

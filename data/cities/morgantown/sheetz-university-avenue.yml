@@ -1,11 +1,11 @@
 id: 1079267106
-type: way
+type: node
 latitude: 39.62816
 longitude: -79.95897
 postcode: "26505"
 city: Morgantown
-street: "University Avenue"
-housenumber: 1012
-phone: "+1 304-291-9549"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/575"
+street: University Avenue
+housenumber: "1012"
+phone: +1 304-291-9549
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/575

@@ -1,11 +1,11 @@
 id: 577832879
-type: way
+type: node
 latitude: 38.41749
 longitude: -82.44806
 postcode: "25701"
 city: Huntington
-street: "6th Avenue"
-housenumber: 600
-phone: "+1-304-525-7221"
+street: 6th Avenue
+housenumber: "600"
+phone: +1-304-525-7221
 opening_hours: ""
 website: ""

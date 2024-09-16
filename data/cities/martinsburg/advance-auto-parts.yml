@@ -1,11 +1,11 @@
 id: 294601066
-type: way
+type: node
 latitude: 39.44279
 longitude: -77.98296
 postcode: "25401"
 city: Martinsburg
-street: "Apple Harvest Drive"
-housenumber: 14849
+street: Apple Harvest Drive
+housenumber: "14849"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wv/martinsburg/14849-apple-harvest-dr"
+website: https://stores.advanceautoparts.com/wv/martinsburg/14849-apple-harvest-dr

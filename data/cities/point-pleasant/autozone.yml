@@ -1,11 +1,11 @@
 id: 929805352
-type: way
+type: node
 latitude: 38.84265
 longitude: -82.13733
 postcode: "25550"
 city: Point Pleasant
-street: "Viand Street"
-housenumber: 426
-phone: "+1-304-675-8708"
+street: Viand Street
+housenumber: "426"
+phone: +1-304-675-8708
 opening_hours: ""
-website: "https://www.autozone.com/locations/wv/point-pleasant/426-viand-st.html"
+website: https://www.autozone.com/locations/wv/point-pleasant/426-viand-st.html

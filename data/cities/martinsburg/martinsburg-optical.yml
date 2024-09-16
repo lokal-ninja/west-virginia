@@ -1,11 +1,11 @@
 id: 591031305
-type: way
+type: node
 latitude: 39.45285
 longitude: -77.97238
 postcode: "25401"
 city: Martinsburg
-street: "West Addition Street"
-housenumber: 608
+street: West Addition Street
+housenumber: "608"
 phone: ""
 opening_hours: ""
 website: ""

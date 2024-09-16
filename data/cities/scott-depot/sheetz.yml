@@ -1,11 +1,11 @@
 id: 559787038
-type: way
+type: node
 latitude: 38.45037
 longitude: -81.90459
 postcode: "25560"
 city: Scott Depot
-street: "Teays Valley Road"
-housenumber: 4344
-phone: "+1 304-757-4611"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/494"
+street: Teays Valley Road
+housenumber: "4344"
+phone: +1 304-757-4611
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/494

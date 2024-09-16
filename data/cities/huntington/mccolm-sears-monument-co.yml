@@ -1,11 +1,11 @@
 id: 338390570
-type: way
+type: node
 latitude: 38.42172
 longitude: -82.43795
 postcode: "25701"
 city: Huntington
-street: "4th Avenue"
-housenumber: 1221
+street: 4th Avenue
+housenumber: "1221"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465918572
-type: way
+type: node
 latitude: 39.44677
 longitude: -77.97757
 postcode: "25401"
 city: Martinsburg
-street: "Wilson Street"
-housenumber: 851
+street: Wilson Street
+housenumber: "851"
 phone: ""
 opening_hours: ""
 website: ""

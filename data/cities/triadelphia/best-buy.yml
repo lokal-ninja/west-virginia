@@ -1,11 +1,11 @@
 id: 360914532
-type: way
+type: node
 latitude: 40.05754
 longitude: -80.59901
 postcode: "26059"
 city: Triadelphia
-street: "Satterfield Drive"
-housenumber: 150
-phone: "+1-304-243-9979"
+street: Satterfield Drive
+housenumber: "150"
+phone: +1-304-243-9979
 opening_hours: ""
-website: "http://stores.bestbuy.com/1798/"
+website: http://stores.bestbuy.com/1798/

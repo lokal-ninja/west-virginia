@@ -1,11 +1,11 @@
 id: 343974488
-type: way
+type: node
 latitude: 37.80066
 longitude: -81.17655
 postcode: "25801"
 city: Beckley
-street: "North Eisenhower Drive"
-housenumber: 1048
-phone: "+1 304-256-6379"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wv/beckley-1010.shtml"
+street: North Eisenhower Drive
+housenumber: "1048"
+phone: +1 304-256-6379
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wv/beckley-1010.shtml

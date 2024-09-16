@@ -1,11 +1,11 @@
 id: 955896347
-type: way
+type: node
 latitude: 40.07701
 longitude: -80.693
 postcode: "26003"
 city: Wheeling
-street: "National Road"
-housenumber: 900
+street: National Road
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

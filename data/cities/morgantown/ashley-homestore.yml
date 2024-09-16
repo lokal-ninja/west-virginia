@@ -1,11 +1,11 @@
 id: 281239037
-type: way
+type: node
 latitude: 39.64861
 longitude: -80.00363
 postcode: "26501"
 city: Morgantown
-street: "University Town Centre Drive"
-housenumber: 5010
-phone: "+1 304-599-3560"
+street: University Town Centre Drive
+housenumber: "5010"
+phone: +1 304-599-3560
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/west-virginia/morgantown/7710000500/"
+website: https://stores.ashleyfurniture.com/store/us/west-virginia/morgantown/7710000500/

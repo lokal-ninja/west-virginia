@@ -1,11 +1,11 @@
 id: 336022955
-type: way
+type: node
 latitude: 38.35909
 longitude: -81.62565
 postcode: "25302"
 city: Charleston
-street: "Spring Street"
-housenumber: 10
-phone: "+1 304-342-0280"
+street: Spring Street
+housenumber: "10"
+phone: +1 304-342-0280
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1075801666
-type: way
+type: node
 latitude: 40.04769
 longitude: -80.65018
 postcode: "26003"
 city: Wheeling
-street: "Elm Grove Crossing"
-housenumber: 
+street: Elm Grove Crossing
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 565161413
-type: way
+type: node
 latitude: 38.44868
 longitude: -81.8182
 postcode: "25159"
 city: Poca
-street: "Charleston Road"
-housenumber: 1457
-phone: "+1 304-755-6821"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/517"
+street: Charleston Road
+housenumber: "1457"
+phone: +1 304-755-6821
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/517

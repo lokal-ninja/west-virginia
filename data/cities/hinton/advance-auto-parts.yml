@@ -1,11 +1,11 @@
 id: 890500422
-type: way
+type: node
 latitude: 37.66767
 longitude: -80.89428
 postcode: "25951"
 city: Hinton
-street: "Main St"
-housenumber: 206
-phone: "+1-304-466-1426"
+street: Main St
+housenumber: "206"
+phone: +1-304-466-1426
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wv/hinton/206-main-st"
+website: https://stores.advanceautoparts.com/wv/hinton/206-main-st

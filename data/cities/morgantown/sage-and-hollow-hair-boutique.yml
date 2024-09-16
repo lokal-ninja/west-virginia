@@ -1,11 +1,11 @@
 id: 1135706016
-type: way
+type: node
 latitude: 39.68642
 longitude: -79.91138
 postcode: "26508"
 city: Morgantown
-street: "Warm Hollow Road"
-housenumber: 139
+street: Warm Hollow Road
+housenumber: "139"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/sageandhollowhb/"
+website: https://www.facebook.com/sageandhollowhb/

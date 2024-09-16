@@ -1,11 +1,11 @@
 id: 544900028
-type: way
+type: node
 latitude: 39.45697
 longitude: -77.97066
 postcode: "25401"
 city: Martinsburg
-street: "Winchester Avenue"
-housenumber: 205
+street: Winchester Avenue
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

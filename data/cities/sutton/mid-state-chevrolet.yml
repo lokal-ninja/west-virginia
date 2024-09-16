@@ -1,11 +1,11 @@
 id: 399815197
-type: way
+type: node
 latitude: 38.70046
 longitude: -80.6628
 postcode: "26601"
 city: Sutton
-street: "Day's Drive"
-housenumber: 
+street: Day's Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

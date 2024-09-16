@@ -1,11 +1,11 @@
 id: 890500399
-type: way
+type: node
 latitude: 37.6726
 longitude: -80.89036
 postcode: "25951"
 city: Hinton
-street: "2nd Avenue"
-housenumber: 407
-phone: "+1-304-466-1011"
+street: 2nd Avenue
+housenumber: "407"
+phone: +1-304-466-1011
 opening_hours: ""
-website: "https://grandmashouseantiqueswv.com/"
+website: https://grandmashouseantiqueswv.com/

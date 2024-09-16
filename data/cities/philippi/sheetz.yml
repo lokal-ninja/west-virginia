@@ -4,8 +4,8 @@ latitude: 39.15276
 longitude: -80.04144
 postcode: "26416"
 city: Philippi
-street: "North Main Street"
-housenumber: 125
-phone: "+1 304-457-3885"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/171"
+street: North Main Street
+housenumber: "125"
+phone: +1 304-457-3885
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/171

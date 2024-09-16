@@ -1,11 +1,11 @@
 id: 428515874
-type: way
+type: node
 latitude: 39.39544
 longitude: -80.30139
 postcode: "26431"
 city: Shinnston
-street: "Pike Street"
-housenumber: 300
-phone: "+1 304 592 2500"
+street: Pike Street
+housenumber: "300"
+phone: +1 304 592 2500
 opening_hours: ""
-website: "https://harmerfuneralhome.com/"
+website: https://harmerfuneralhome.com/

@@ -1,11 +1,11 @@
 id: 905090101
-type: way
+type: node
 latitude: 38.84029
 longitude: -82.13753
 postcode: "25550"
 city: Point Pleasant
-street: "3rd Street"
-housenumber: 305
-phone: "+1 304-675-5872"
+street: 3rd Street
+housenumber: "305"
+phone: +1 304-675-5872
 opening_hours: ""
-website: "https://www.lovingthepig.com/stores/point-pleasant-piggly-wiggly"
+website: https://www.lovingthepig.com/stores/point-pleasant-piggly-wiggly

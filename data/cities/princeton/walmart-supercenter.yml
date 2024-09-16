@@ -1,11 +1,11 @@
 id: 604081691
-type: way
+type: node
 latitude: 37.35975
 longitude: -81.04474
 postcode: "24739"
 city: Princeton
-street: "Greasy Ridge Road"
-housenumber: 201
-phone: "+1 304-431-2100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2933/princeton-wv/whats-new"
+street: Greasy Ridge Road
+housenumber: "201"
+phone: +1 304-431-2100
+opening_hours: 24/7
+website: https://www.walmart.com/store/2933/princeton-wv/whats-new

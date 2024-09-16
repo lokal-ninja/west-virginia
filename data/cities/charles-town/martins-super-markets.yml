@@ -1,11 +1,11 @@
 id: 158622988
-type: way
+type: node
 latitude: 39.29759
 longitude: -77.84254
 postcode: "25414"
 city: Charles Town
-street: "Flowing Springs Road"
-housenumber: 190
-phone: "+1-304-728-8705"
-opening_hours: "24/7"
+street: Flowing Springs Road
+housenumber: "190"
+phone: +1-304-728-8705
+opening_hours: 24/7
 website: ""

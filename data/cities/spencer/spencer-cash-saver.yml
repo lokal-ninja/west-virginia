@@ -1,11 +1,11 @@
 id: 1059552924
-type: way
+type: node
 latitude: 38.79872
 longitude: -81.34375
 postcode: "25276"
 city: Spencer
-street: "East Main Street"
-housenumber: 208
+street: East Main Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

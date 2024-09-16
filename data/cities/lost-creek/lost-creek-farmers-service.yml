@@ -1,11 +1,11 @@
 id: 540839663
-type: way
+type: node
 latitude: 39.15957
 longitude: -80.35323
 postcode: "26385"
 city: Lost Creek
-street: "Railroad Street"
-housenumber: 122
+street: Railroad Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

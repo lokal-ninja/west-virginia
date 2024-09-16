@@ -1,11 +1,11 @@
 id: 129725363
-type: way
+type: node
 latitude: 39.62473
 longitude: -79.99281
 postcode: "26501"
 city: Morgantown
-street: "Mall Road"
-housenumber: 9595
-phone: "+1 304-983-3100"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wv-morgantown/1671"
+street: Mall Road
+housenumber: "9595"
+phone: +1 304-983-3100
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wv-morgantown/1671

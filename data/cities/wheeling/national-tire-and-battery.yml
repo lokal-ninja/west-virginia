@@ -1,11 +1,11 @@
 id: 955896359
-type: way
+type: node
 latitude: 40.07668
 longitude: -80.694
 postcode: "26003"
 city: Wheeling
-street: "National Road"
-housenumber: 868
+street: National Road
+housenumber: "868"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/wv/wheeling/868-national-rd-26003/4597"
+website: https://www.ntb.com/store/wv/wheeling/868-national-rd-26003/4597

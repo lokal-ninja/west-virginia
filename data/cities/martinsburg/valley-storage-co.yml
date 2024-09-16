@@ -1,11 +1,11 @@
 id: 545363263
-type: way
+type: node
 latitude: 39.44249
 longitude: -77.96894
 postcode: "25405"
 city: Martinsburg
-street: "Sopwith Way"
-housenumber: 79
+street: Sopwith Way
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

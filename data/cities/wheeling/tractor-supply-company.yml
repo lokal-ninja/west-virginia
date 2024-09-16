@@ -1,11 +1,11 @@
 id: 1075801668
-type: way
+type: node
 latitude: 40.04755
 longitude: -80.65112
 postcode: "26003"
 city: Wheeling
-street: "Elm Grove Crossing"
-housenumber: 6
-phone: "+1 304-238-0050"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Elm Grove Crossing
+housenumber: "6"
+phone: +1 304-238-0050
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

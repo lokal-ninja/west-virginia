@@ -1,11 +1,11 @@
 id: 397578299
-type: way
+type: node
 latitude: 38.89333
 longitude: -79.84307
 postcode: "26241"
 city: Elkins
-street: "Beverly Pike"
-housenumber: 721
-phone: "+1 304-636-2138"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1522/elkins-wv/whats-new"
+street: Beverly Pike
+housenumber: "721"
+phone: +1 304-636-2138
+opening_hours: 24/7
+website: https://www.walmart.com/store/1522/elkins-wv/whats-new

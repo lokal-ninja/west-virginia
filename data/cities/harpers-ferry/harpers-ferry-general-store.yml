@@ -1,11 +1,11 @@
 id: 136439768
-type: way
+type: node
 latitude: 39.32382
 longitude: -77.73094
 postcode: "25425"
 city: Harpers Ferry
-street: "Potomac Street"
-housenumber: 106
-phone: "+1 304 535 2087"
+street: Potomac Street
+housenumber: "106"
+phone: +1 304 535 2087
 opening_hours: ""
 website: ""

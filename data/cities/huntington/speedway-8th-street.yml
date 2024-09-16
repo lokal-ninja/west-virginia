@@ -1,11 +1,11 @@
 id: 338390578
-type: way
+type: node
 latitude: 38.41408
 longitude: -82.44358
 postcode: "25701"
 city: Huntington
-street: "8th Street"
-housenumber: 826
+street: 8th Street
+housenumber: "826"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/WV/Huntington/826-8th-Street"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/WV/Huntington/826-8th-Street

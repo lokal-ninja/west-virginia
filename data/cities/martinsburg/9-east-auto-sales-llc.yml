@@ -1,11 +1,11 @@
 id: 548918084
-type: way
+type: node
 latitude: 39.43179
 longitude: -77.94841
 postcode: "25405"
 city: Martinsburg
-street: "Slonaker Lane"
-housenumber: 39
+street: Slonaker Lane
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

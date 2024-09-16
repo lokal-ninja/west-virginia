@@ -1,11 +1,11 @@
 id: 1059578749
-type: way
+type: node
 latitude: 38.53308
 longitude: -81.89471
 postcode: "25213"
 city: Winfield
-street: "Garfield Street"
-housenumber: 25
+street: Garfield Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

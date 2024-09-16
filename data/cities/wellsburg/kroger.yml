@@ -1,11 +1,11 @@
 id: 918732429
-type: way
+type: node
 latitude: 40.29078
 longitude: -80.6094
 postcode: "26070"
 city: Wellsburg
-street: "27th Street"
-housenumber: 91
-phone: "+1 304-243-6220"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/wv/wellsburg/wellsburg/016/00268"
+street: 27th Street
+housenumber: "91"
+phone: +1 304-243-6220
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/wv/wellsburg/wellsburg/016/00268

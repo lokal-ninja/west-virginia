@@ -1,11 +1,11 @@
 id: 394950467
-type: way
+type: node
 latitude: 39.40215
 longitude: -77.91234
 postcode: "25430"
 city: Kearneysville
-street: "Charles Town Road"
-housenumber: 3728
-phone: "+1 304-267-4161"
-opening_hours: "24/7"
-website: "https://orders.sheetz.com/findasheetz/store/137"
+street: Charles Town Road
+housenumber: "3728"
+phone: +1 304-267-4161
+opening_hours: 24/7
+website: https://orders.sheetz.com/findasheetz/store/137

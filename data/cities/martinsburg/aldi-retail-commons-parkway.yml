@@ -1,11 +1,11 @@
 id: 546844550
-type: way
+type: node
 latitude: 39.43992
 longitude: -77.99251
 postcode: "25403"
 city: Martinsburg
-street: "Retail Commons Parkway"
-housenumber: 246
-phone: "+1 833-471-7074"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wv/martinsburg/246-retail-commons-pkwy"
+street: Retail Commons Parkway
+housenumber: "246"
+phone: +1 833-471-7074
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wv/martinsburg/246-retail-commons-pkwy

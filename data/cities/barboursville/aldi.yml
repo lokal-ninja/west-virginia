@@ -1,11 +1,11 @@
 id: 661025163
-type: way
+type: node
 latitude: 38.41423
 longitude: -82.28871
 postcode: "25504"
 city: Barboursville
-street: "Tanyard Station Drive"
-housenumber: 35
-phone: "+1 833-461-7088"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wv/barboursville/35-tanyard-station-drive"
+street: Tanyard Station Drive
+housenumber: "35"
+phone: +1 833-461-7088
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wv/barboursville/35-tanyard-station-drive

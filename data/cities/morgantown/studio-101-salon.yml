@@ -1,11 +1,11 @@
 id: 611875320
-type: way
+type: node
 latitude: 39.62637
 longitude: -79.94649
 postcode: "26501"
 city: Morgantown
-street: "East Brockway Avenue"
-housenumber: 101
+street: East Brockway Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

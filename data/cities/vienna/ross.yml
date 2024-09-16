@@ -2,10 +2,10 @@ id: 11608711946
 type: node
 latitude: 39.30286
 longitude: -81.5525
-postcode: "26105-4110"
+postcode: 26105-4110
 city: Vienna
-street: "Grand Central Mall"
-housenumber: 100
-phone: "+1 304-428-7437"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Grand Central Mall
+housenumber: "100"
+phone: +1 304-428-7437
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

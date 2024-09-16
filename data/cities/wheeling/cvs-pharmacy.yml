@@ -1,11 +1,11 @@
 id: 955896344
-type: way
+type: node
 latitude: 40.07608
 longitude: -80.69565
 postcode: "26003"
 city: Wheeling
-street: "National Road"
-housenumber: 840
+street: National Road
+housenumber: "840"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/wheeling-wv-pharmacies/842-national-rd-wheeling-wv-26003/storeid=6278"
+website: https://www.cvs.com/store-locator/wheeling-wv-pharmacies/842-national-rd-wheeling-wv-26003/storeid=6278

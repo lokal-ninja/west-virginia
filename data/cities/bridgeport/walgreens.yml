@@ -1,11 +1,11 @@
 id: 1013994300
-type: way
+type: node
 latitude: 39.2835
 longitude: -80.25687
 postcode: ""
 city: Bridgeport
-street: "West Main Street"
-housenumber: 300
+street: West Main Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

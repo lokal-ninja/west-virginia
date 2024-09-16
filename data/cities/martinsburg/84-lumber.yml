@@ -1,11 +1,11 @@
 id: 548922828
-type: way
+type: node
 latitude: 39.43187
 longitude: -77.95569
 postcode: "25405"
 city: Martinsburg
-street: "Charles Town Road"
-housenumber: 326
+street: Charles Town Road
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

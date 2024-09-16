@@ -1,11 +1,11 @@
 id: 1059574021
-type: way
+type: node
 latitude: 38.43195
 longitude: -82.02206
 postcode: "25526"
 city: Hurricane
-street: "Main Street"
-housenumber: 2825
+street: Main Street
+housenumber: "2825"
 phone: ""
 opening_hours: ""
 website: ""

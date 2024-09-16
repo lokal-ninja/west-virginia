@@ -1,11 +1,11 @@
 id: 546849609
-type: way
+type: node
 latitude: 39.44051
 longitude: -77.99211
 postcode: "25403"
 city: Martinsburg
-street: "Retail Commons Parkway"
-housenumber: 198
+street: Retail Commons Parkway
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""
