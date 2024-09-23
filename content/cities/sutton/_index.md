@@ -1,6 +1,6 @@
 ---
 title: Sutton
 url: /sutton/
-latitude: 38.703
-longitude: -80.668
+latitude: 38.702
+longitude: -80.667
 ---
