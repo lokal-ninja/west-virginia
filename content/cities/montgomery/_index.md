@@ -1,6 +1,6 @@
 ---
 title: Montgomery
 url: /montgomery/
-latitude: 38.181
-longitude: -81.325
+latitude: 38.18
+longitude: -81.337
 ---
