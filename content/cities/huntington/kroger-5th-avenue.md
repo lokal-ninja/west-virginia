@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /beckley/kroger-harper-road/
+url: /huntington/kroger-5th-avenue/
 shop: supermarket
 ---
