@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /clarksburg/dollar-general-melrose-street/
+url: /parkersburg/dollar-general-emerson-avenue/
 shop: variety store
 ---
