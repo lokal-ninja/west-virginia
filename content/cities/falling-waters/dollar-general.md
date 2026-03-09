@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /hinton/dollar-general-main-street/
+url: /falling-waters/dollar-general/
 shop: variety store
 ---
