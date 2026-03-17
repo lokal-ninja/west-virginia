@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /bridgeport/sheetz-oakmont-lane/
+url: /bridgeport/sheetz-johnson-avenue/
 shop: convenience
 ---
