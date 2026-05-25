@@ -1,6 +1,6 @@
 ---
 title: Dunbar
 url: /dunbar/
-latitude: 38.358
-longitude: -81.734
+latitude: 38.361
+longitude: -81.739
 ---

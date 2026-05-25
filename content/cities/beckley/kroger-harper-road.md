@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /dunbar/kroger/
+url: /beckley/kroger-harper-road/
 shop: supermarket
 ---
