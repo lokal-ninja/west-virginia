@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /man/speedway-huffcreek-highway/
+url: /man/speedway-huff-creek-highway/
 shop: convenience
 ---
