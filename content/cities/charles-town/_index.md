@@ -1,6 +1,6 @@
 ---
 title: Charles Town
 url: /charles-town/
-latitude: 39.296
-longitude: -77.829
+latitude: 39.288
+longitude: -77.862
 ---
