@@ -1,6 +1,6 @@
 ---
 title: Gassaway
 url: /gassaway/
-latitude: 38.663
-longitude: -80.754
+latitude: 38.661
+longitude: -80.758
 ---

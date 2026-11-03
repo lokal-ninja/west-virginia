@@ -1,5 +1,5 @@
 ---
 title: "Sheetz"
-url: /parkersburg/sheetz-ann-street/
+url: /parkersburg/sheetz-7th-street/
 shop: convenience
 ---
